@@ -1,0 +1,896 @@
+#,Offense Rank,%ile,Defense Rank,%ile,PKMN #,Pokemon,P_Type_1,P_Type_2,HP,Atk,Def,Basic Atk,Q_PW,Q_Type,Q_STAB,Q_Spd_ms,Q_NRG,Charge Atk,C_PW,C_Type,C_STAB,Crit%,C_Spd_ms,C_NRG,Last Active Date
+880,1,100%,4,68%,150,Mewtwo,Psychic,,212,330,200,Psycho Cut,7,Psychic,1,570,7,Psychic,55,Psychic,1,5,2800,50,12/10/2016
+882,2,97%,5,65%,150,Mewtwo,Psychic,,212,330,200,Psycho Cut,7,Psychic,1,570,7,Hyper Beam,120,Normal,0,5,5000,100,12/10/2016
+883,3,86%,1,100%,150,Mewtwo,Psychic,,212,330,200,Confusion,15,Psychic,1,1510,14,Psychic,55,Psychic,1,5,2800,50,12/10/2016
+881,4,81%,6,64%,150,Mewtwo,Psychic,,212,330,200,Psycho Cut,7,Psychic,1,570,7,Shadow Ball,45,Ghost,0,5,3080,33,12/10/2016
+885,5,80%,2,96%,150,Mewtwo,Psychic,,212,330,200,Confusion,15,Psychic,1,1510,14,Hyper Beam,120,Normal,0,5,5000,100,12/10/2016
+857,11,65%,10,52%,143,Snorlax,Normal,,320,190,190,Lick,5,Ghost,0,500,6,Hyper Beam,120,Normal,1,5,5000,100,12/10/2016
+884,6,70%,3,89%,150,Mewtwo,Psychic,,212,330,200,Confusion,15,Psychic,1,1510,14,Shadow Ball,45,Ghost,0,5,3080,33,12/10/2016
+854,12,61%,3,71%,143,Snorlax,Normal,,320,190,190,Zen Headbutt,12,Psychic,0,1050,9,Hyper Beam,120,Normal,1,5,5000,100,12/10/2016
+803,9,80%,18,59%,134,Vaporeon,Water,,260,205,177,Water Gun,6,Water,1,500,7,Hydro Pump,90,Water,1,5,3800,100,12/10/2016
+856,13,60%,15,42%,143,Snorlax,Normal,,320,190,190,Lick,5,Ghost,0,500,6,Body Slam,40,Normal,1,5,1560,50,12/10/2016
+876,1,100%,22,60%,149,Dragonite,Dragon,Flying,182,263,201,Dragon Breath,6,Dragon,1,500,7,Dragon Claw,35,Dragon,1,25,1500,50,12/10/2016
+853,14,59%,5,67%,143,Snorlax,Normal,,320,190,190,Zen Headbutt,12,Psychic,0,1050,9,Body Slam,40,Normal,1,5,1560,50,12/10/2016
+874,2,98%,16,71%,149,Dragonite,Dragon,Flying,182,263,201,Dragon Breath,6,Dragon,1,500,7,Dragon Pulse,65,Dragon,1,5,3600,50,12/10/2016
+875,3,95%,20,61%,149,Dragonite,Dragon,Flying,182,263,201,Dragon Breath,6,Dragon,1,500,7,Hyper Beam,120,Normal,0,5,5000,100,12/10/2016
+804,13,75%,18,59%,134,Vaporeon,Water,,260,205,177,Water Gun,6,Water,1,500,7,Aqua Tail,45,Water,1,5,2350,50,12/10/2016
+675,9,93%,4,92%,112,Rhydon,Ground,Rock,210,222,206,Mud Slap,15,Ground,1,1350,12,Earthquake,100,Ground,1,5,4200,100,12/10/2016
+791,21,79%,15,71%,131,Lapras,Water,Ice,260,186,190,Frost Breath,9,Ice,1,810,7,Blizzard,100,Ice,1,5,3900,100,12/10/2016
+676,12,90%,2,98%,112,Rhydon,Ground,Rock,210,222,206,Mud Slap,15,Ground,1,1350,12,Stone Edge,80,Rock,1,50,3100,100,12/10/2016
+858,15,54%,16,42%,143,Snorlax,Normal,,320,190,190,Lick,5,Ghost,0,500,6,Earthquake,100,Ground,0,5,4200,100,12/10/2016
+794,23,77%,5,88%,131,Lapras,Water,Ice,260,186,190,Ice Shard,15,Ice,1,1400,12,Blizzard,100,Ice,1,5,3900,100,12/10/2016
+855,16,53%,7,61%,143,Snorlax,Normal,,320,190,190,Zen Headbutt,12,Psychic,0,1050,9,Earthquake,100,Ground,0,5,4200,100,12/10/2016
+888,12,88%,17,58%,151,Mew,Psychic,,200,210,210,Pound,7,Normal,0,540,7,Psychic,55,Psychic,1,5,2800,50,12/10/2016
+861,30,82%,20,67%,144,Articuno,Ice,Flying,180,192,249,Frost Breath,9,Ice,1,810,7,Blizzard,100,Ice,1,5,3900,100,12/10/2016
+790,27,74%,11,77%,131,Lapras,Water,Ice,260,186,190,Frost Breath,9,Ice,1,810,7,Ice Beam,65,Ice,1,5,3650,50,12/10/2016
+783,8,80%,53,50%,130,Gyarados,Water,Flying,190,237,197,Dragon Breath,6,Dragon,0,500,7,Hydro Pump,90,Water,1,5,3800,100,8/19/2016
+786,8,80%,53,50%,130,Gyarados,Water,Flying,190,237,197,Bite,6,Dark,0,500,7,Hydro Pump,90,Water,1,5,3800,100,12/10/2016
+674,20,83%,9,81%,112,Rhydon,Ground,Rock,210,222,206,Mud Slap,15,Ground,1,1350,12,Megahorn,80,Bug,0,5,3200,100,12/10/2016
+793,28,72%,1,100%,131,Lapras,Water,Ice,260,186,190,Ice Shard,15,Ice,1,1400,12,Ice Beam,65,Ice,1,5,3650,50,12/10/2016
+894,13,83%,22,51%,151,Mew,Psychic,,200,210,210,Pound,7,Normal,0,540,7,Blizzard,100,Ice,0,5,3900,100,12/10/2016
+893,14,83%,19,54%,151,Mew,Psychic,,200,210,210,Pound,7,Normal,0,540,7,Solar Beam,120,Grass,0,5,4900,100,12/10/2016
+895,15,83%,19,54%,151,Mew,Psychic,,200,210,210,Pound,7,Normal,0,540,7,Hyper Beam,120,Normal,0,5,5000,100,12/10/2016
+877,8,81%,3,94%,149,Dragonite,Dragon,Flying,182,263,201,Steel Wing,15,Steel,0,1330,12,Dragon Pulse,65,Dragon,1,5,3600,50,12/10/2016
+892,17,82%,22,51%,151,Mew,Psychic,,200,210,210,Pound,7,Normal,0,540,7,Fire Blast,100,Fire,0,5,4100,100,12/10/2016
+448,16,78%,61,56%,76,Golem,Rock,Ground,160,211,229,Mud Shot,6,Ground,1,550,7,Earthquake,100,Ground,1,5,4200,100,8/19/2016
+887,18,82%,22,51%,151,Mew,Psychic,,200,210,210,Pound,7,Normal,0,540,7,Earthquake,100,Ground,0,5,4200,100,12/10/2016
+859,38,76%,14,72%,144,Articuno,Ice,Flying,180,192,249,Frost Breath,9,Ice,1,810,7,Ice Beam,65,Ice,1,5,3650,50,12/10/2016
+890,20,81%,26,50%,151,Mew,Psychic,,200,210,210,Pound,7,Normal,0,540,7,Thunder,100,Electric,0,5,4300,100,12/10/2016
+879,11,79%,8,82%,149,Dragonite,Dragon,Flying,182,263,201,Steel Wing,15,Steel,0,1330,12,Dragon Claw,35,Dragon,1,25,1500,50,12/10/2016
+864,1,100%,26,56%,145,Zapdos,Electric,Flying,180,253,188,Thunder Shock,5,Electric,1,600,8,Thunder,100,Electric,1,5,4300,100,12/10/2016
+802,28,62%,14,68%,134,Vaporeon,Water,,260,205,177,Water Gun,6,Water,1,500,7,Water Pulse,35,Water,1,5,3300,25,12/10/2016
+789,30,67%,16,70%,131,Lapras,Water,Ice,260,186,190,Frost Breath,9,Ice,1,810,7,Dragon Pulse,65,Dragon,0,5,3600,50,12/10/2016
+863,4,98%,17,66%,145,Zapdos,Electric,Flying,180,253,188,Thunder Shock,5,Electric,1,600,8,Thunderbolt,55,Electric,1,5,2700,50,12/10/2016
+886,21,79%,30,46%,151,Mew,Psychic,,200,210,210,Pound,7,Normal,0,540,7,Hurricane,80,Flying,0,5,3200,100,8/19/2016
+446,24,75%,81,51%,76,Golem,Rock,Ground,160,211,229,Mud Shot,6,Ground,1,550,7,Stone Edge,80,Rock,1,50,3100,100,8/19/2016
+678,30,76%,12,78%,112,Rhydon,Ground,Rock,210,222,206,Rock Smash,15,Fighting,0,1410,12,Earthquake,100,Ground,1,5,4200,100,12/10/2016
+679,33,76%,15,74%,112,Rhydon,Ground,Rock,210,222,206,Rock Smash,15,Fighting,0,1410,12,Stone Edge,80,Rock,1,50,3100,100,12/10/2016
+878,14,76%,10,79%,149,Dragonite,Dragon,Flying,182,263,201,Steel Wing,15,Steel,0,1330,12,Hyper Beam,120,Normal,0,5,5000,100,12/10/2016
+451,29,73%,13,82%,76,Golem,Rock,Ground,160,211,229,Mud Slap,15,Ground,1,1350,12,Earthquake,100,Ground,1,5,4200,100,12/10/2016
+792,31,65%,4,91%,131,Lapras,Water,Ice,260,186,190,Ice Shard,15,Ice,1,1400,12,Dragon Pulse,65,Dragon,0,5,3600,50,12/10/2016
+891,23,76%,29,47%,151,Mew,Psychic,,200,210,210,Pound,7,Normal,0,540,7,Moonblast,85,Fairy,0,5,4100,100,8/19/2016
+865,3,97%,5,83%,146,Moltres,Fire,Flying,180,251,184,Ember,10,Fire,1,1050,10,Fire Blast,100,Fire,1,5,4100,100,12/10/2016
+889,26,76%,18,55%,151,Mew,Psychic,,200,210,210,Pound,7,Normal,0,540,7,Dragon Pulse,65,Dragon,0,5,3600,50,12/10/2016
+449,36,71%,5,88%,76,Golem,Rock,Ground,160,211,229,Mud Slap,15,Ground,1,1350,12,Stone Edge,80,Rock,1,50,3100,100,12/10/2016
+867,5,95%,3,93%,146,Moltres,Fire,Flying,180,251,184,Ember,10,Fire,1,1050,10,Flamethrower,55,Fire,1,5,2900,50,12/10/2016
+785,39,69%,40,52%,130,Gyarados,Water,Flying,190,237,197,Dragon Breath,6,Dragon,0,500,7,Dragon Pulse,65,Dragon,0,5,3600,50,8/19/2016
+788,39,69%,40,52%,130,Gyarados,Water,Flying,190,237,197,Bite,6,Dark,0,500,7,Dragon Pulse,65,Dragon,0,5,3600,50,12/10/2016
+677,38,70%,20,69%,112,Rhydon,Ground,Rock,210,222,206,Rock Smash,15,Fighting,0,1410,12,Megahorn,80,Bug,0,5,3200,100,12/10/2016
+830,17,79%,112,51%,139,Omastar,Rock,Water,140,207,227,Water Gun,6,Water,1,500,7,Hydro Pump,90,Water,1,5,3800,100,12/10/2016
+621,2,83%,8,82%,103,Exeggutor,Grass,Psychic,190,233,158,Zen Headbutt,12,Psychic,1,1050,9,Solar Beam,120,Grass,1,5,4900,100,12/10/2016
+445,48,68%,11,83%,76,Golem,Rock,Ground,160,211,229,Rock Throw,12,Rock,1,1360,15,Earthquake,100,Ground,1,5,4200,100,12/10/2016
+341,5,83%,33,69%,59,Arcanine,Fire,,180,227,166,Fire Fang,10,Fire,1,840,8,Fire Blast,100,Fire,1,5,4100,100,12/10/2016
+866,6,90%,7,77%,146,Moltres,Fire,Flying,180,251,184,Ember,10,Fire,1,1050,10,Heat Wave,80,Fire,1,5,3800,100,12/10/2016
+534,64,63%,25,70%,89,Muk,Poison,,210,190,184,Poison Jab,12,Poison,1,1050,10,Gunk Shot,65,Poison,1,5,3000,100,12/10/2016
+535,66,63%,21,72%,89,Muk,Poison,,210,190,184,Poison Jab,12,Poison,1,1050,10,Sludge Wave,70,Poison,1,5,3400,100,12/10/2016
+471,48,65%,67,55%,80,Slowbro,Water,Psychic,190,177,194,Water Gun,6,Water,1,500,7,Psychic,55,Psychic,1,5,2800,50,12/10/2016
+344,9,80%,99,49%,59,Arcanine,Fire,,180,227,166,Bite,6,Dark,0,500,7,Fire Blast,100,Fire,1,5,4100,100,12/10/2016
+342,11,79%,29,70%,59,Arcanine,Fire,,180,227,166,Fire Fang,10,Fire,1,840,8,Flamethrower,55,Fire,1,5,2900,50,12/10/2016
+620,7,79%,5,85%,103,Exeggutor,Grass,Psychic,190,233,158,Zen Headbutt,12,Psychic,1,1050,9,Psychic,55,Psychic,1,5,2800,50,12/10/2016
+443,61,64%,25,75%,76,Golem,Rock,Ground,160,211,229,Rock Throw,12,Rock,1,1360,15,Stone Edge,80,Rock,1,50,3100,100,12/10/2016
+862,16,83%,23,60%,145,Zapdos,Electric,Flying,180,253,188,Thunder Shock,5,Electric,1,600,8,Discharge,35,Electric,1,5,2500,33,12/10/2016
+860,49,62%,28,57%,144,Articuno,Ice,Flying,180,192,249,Frost Breath,9,Ice,1,810,7,Icy Wind,25,Ice,1,5,3800,20,12/10/2016
+618,9,76%,1,100%,103,Exeggutor,Grass,Psychic,190,233,158,Confusion,15,Psychic,1,1510,14,Solar Beam,120,Grass,1,5,4900,100,12/10/2016
+18,8,71%,23,59%,3,Venusaur,Grass,Poison,160,198,198,Vine Whip,7,Grass,1,650,7,Solar Beam,120,Grass,1,5,4900,100,12/10/2016
+345,19,75%,93,51%,59,Arcanine,Fire,,180,227,166,Bite,6,Dark,0,500,7,Flamethrower,55,Fire,1,5,2900,50,12/10/2016
+619,11,75%,7,84%,103,Exeggutor,Grass,Psychic,190,233,158,Zen Headbutt,12,Psychic,1,1050,9,Seed Bomb,40,Grass,1,5,2400,33,12/10/2016
+34,3,82%,35,59%,6,Charizard,Fire,Flying,156,223,176,Wing Attack,9,Flying,1,750,7,Fire Blast,100,Fire,1,5,4100,100,12/10/2016
+831,34,71%,50,63%,139,Omastar,Rock,Water,140,207,227,Water Gun,6,Water,1,500,7,Rock Slide,50,Rock,1,5,3200,33,12/10/2016
+617,12,74%,4,94%,103,Exeggutor,Grass,Psychic,190,233,158,Confusion,15,Psychic,1,1510,14,Psychic,55,Psychic,1,5,2800,50,12/10/2016
+17,11,69%,20,59%,3,Venusaur,Grass,Poison,160,198,198,Vine Whip,7,Grass,1,650,7,Petal Blizzard,65,Grass,1,5,3200,50,12/10/2016
+16,12,69%,25,55%,3,Venusaur,Grass,Poison,160,198,198,Vine Whip,7,Grass,1,650,7,Sludge Bomb,55,Poison,1,5,2600,50,12/10/2016
+425,36,57%,14,66%,73,Tentacruel,Water,Poison,160,166,237,Poison Jab,12,Poison,1,1050,10,Hydro Pump,90,Water,1,5,3800,100,12/10/2016
+532,86,56%,40,63%,89,Muk,Poison,,210,190,184,Acid,10,Poison,1,1050,10,Sludge Wave,70,Poison,1,5,3400,100,8/19/2016
+683,251,25%,112,50%,113,Chansey,Normal,,500,60,176,Pound,7,Normal,1,540,7,Hyper Beam,120,Normal,1,5,5000,100,12/10/2016
+531,88,56%,44,62%,89,Muk,Poison,,210,190,184,Acid,10,Poison,1,1050,10,Gunk Shot,65,Poison,1,5,3000,100,8/19/2016
+51,45,65%,102,44%,9,Blastoise,Water,,158,171,210,Water Gun,6,Water,1,500,7,Hydro Pump,90,Water,1,5,3800,100,12/10/2016
+36,8,78%,33,61%,6,Charizard,Fire,Flying,156,223,176,Wing Attack,9,Flying,1,750,7,Flamethrower,55,Fire,1,5,2900,50,12/10/2016
+374,1,100%,91,52%,65,Alakazam,Psychic,,110,271,194,Psycho Cut,7,Psychic,1,570,7,Psychic,55,Psychic,1,5,2800,50,12/10/2016
+833,56,67%,135,45%,139,Omastar,Rock,Water,140,207,227,Mud Shot,6,Ground,0,550,7,Hydro Pump,90,Water,1,5,3800,100,12/10/2016
+547,37,72%,52,57%,91,Cloyster,Water,Ice,100,186,323,Frost Breath,9,Ice,1,810,7,Blizzard,100,Ice,1,5,3900,100,12/10/2016
+616,16,71%,2,96%,103,Exeggutor,Grass,Psychic,190,233,158,Confusion,15,Psychic,1,1510,14,Seed Bomb,40,Grass,1,5,2400,33,12/10/2016
+15,14,67%,9,77%,3,Venusaur,Grass,Poison,160,198,198,Razor Leaf,15,Grass,1,1450,12,Solar Beam,120,Grass,1,5,4900,100,12/10/2016
+359,70,69%,1,100%,62,Poliwrath,Water,Fighting,180,182,187,Bubble,25,Water,1,2300,25,Hydro Pump,90,Water,1,5,3800,100,12/10/2016
+450,90,57%,10,83%,76,Golem,Rock,Ground,160,211,229,Mud Slap,15,Ground,1,1350,12,Ancient Power,35,Rock,1,5,3600,25,12/10/2016
+808,1,100%,11,71%,136,Flareon,Fire,,130,246,204,Ember,10,Fire,1,1050,10,Fire Blast,100,Fire,1,5,4100,100,12/10/2016
+426,45,55%,23,62%,73,Tentacruel,Water,Poison,160,166,237,Poison Jab,12,Poison,1,1050,10,Sludge Wave,70,Poison,1,5,3400,100,12/10/2016
+472,83,56%,75,53%,80,Slowbro,Water,Psychic,190,177,194,Water Gun,6,Water,1,500,7,Ice Beam,65,Ice,0,5,3650,50,12/10/2016
+784,69,56%,58,48%,130,Gyarados,Water,Flying,190,237,197,Dragon Breath,6,Dragon,0,500,7,Twister,25,Dragon,0,5,2700,20,8/19/2016
+787,69,56%,58,48%,130,Gyarados,Water,Flying,190,237,197,Bite,6,Dark,0,500,7,Twister,25,Dragon,0,5,2700,20,12/10/2016
+474,84,56%,9,86%,80,Slowbro,Water,Psychic,190,177,194,Confusion,15,Psychic,1,1510,14,Psychic,55,Psychic,1,5,2800,50,12/10/2016
+550,43,70%,18,71%,91,Cloyster,Water,Ice,100,186,323,Ice Shard,15,Ice,1,1400,12,Blizzard,100,Ice,1,5,3900,100,12/10/2016
+427,46,54%,16,64%,73,Tentacruel,Water,Poison,160,166,237,Poison Jab,12,Poison,1,1050,10,Blizzard,100,Ice,0,5,3900,100,12/10/2016
+14,17,65%,6,84%,3,Venusaur,Grass,Poison,160,198,198,Razor Leaf,15,Grass,1,1450,12,Petal Blizzard,65,Grass,1,5,3200,50,12/10/2016
+13,17,65%,8,80%,3,Venusaur,Grass,Poison,160,198,198,Razor Leaf,15,Grass,1,1450,12,Sludge Bomb,55,Poison,1,5,2600,50,12/10/2016
+447,95,56%,54,57%,76,Golem,Rock,Ground,160,211,229,Mud Shot,6,Ground,1,550,7,Ancient Power,35,Rock,1,5,3600,25,8/19/2016
+150,36,74%,119,47%,28,Sandslash,Ground,,150,182,202,Mud Shot,6,Ground,1,550,7,Earthquake,100,Ground,1,5,4200,100,12/10/2016
+546,48,70%,58,55%,91,Cloyster,Water,Ice,100,186,323,Frost Breath,9,Ice,1,810,7,Hydro Pump,90,Water,1,5,3800,100,12/10/2016
+533,97,53%,16,78%,89,Muk,Poison,,210,190,184,Poison Jab,12,Poison,1,1050,10,Dark Pulse,45,Dark,0,5,3500,33,12/10/2016
+538,97,53%,107,41%,89,Muk,Poison,,210,190,184,Lick,5,Ghost,0,500,6,Sludge Wave,70,Poison,1,5,3400,100,12/10/2016
+809,2,98%,8,78%,136,Flareon,Fire,,130,246,204,Ember,10,Fire,1,1050,10,Flamethrower,55,Fire,1,5,2900,50,12/10/2016
+827,75,64%,23,75%,139,Omastar,Rock,Water,140,207,227,Rock Throw,12,Rock,1,1360,15,Hydro Pump,90,Water,1,5,3800,100,8/19/2016
+537,99,52%,111,40%,89,Muk,Poison,,210,190,184,Lick,5,Ghost,0,500,6,Gunk Shot,65,Poison,1,5,3000,100,12/10/2016
+549,59,68%,23,69%,91,Cloyster,Water,Ice,100,186,323,Ice Shard,15,Ice,1,1400,12,Hydro Pump,90,Water,1,5,3800,100,12/10/2016
+35,14,73%,62,50%,6,Charizard,Fire,Flying,156,223,176,Wing Attack,9,Flying,1,750,7,Dragon Claw,35,Dragon,0,25,1500,50,12/10/2016
+165,15,74%,10,66%,31,Nidoqueen,Poison,Ground,180,180,174,Poison Jab,12,Poison,1,1050,10,Earthquake,100,Ground,1,5,4200,100,12/10/2016
+834,87,63%,77,58%,139,Omastar,Rock,Water,140,207,227,Mud Shot,6,Ground,0,550,7,Rock Slide,50,Rock,1,5,3200,33,12/10/2016
+807,7,84%,45,47%,135,Jolteon,Electric,,130,232,201,Thunder Shock,5,Electric,1,600,8,Thunder,100,Electric,1,5,4300,100,12/10/2016
+362,83,65%,133,42%,62,Poliwrath,Water,Fighting,180,182,187,Mud Shot,6,Ground,0,550,7,Hydro Pump,90,Water,1,5,3800,100,12/10/2016
+168,17,73%,35,44%,31,Nidoqueen,Poison,Ground,180,180,174,Bite,6,Dark,0,500,7,Earthquake,100,Ground,1,5,4200,100,12/10/2016
+343,50,66%,48,63%,59,Arcanine,Fire,,180,227,166,Fire Fang,10,Fire,1,840,8,Bulldoze,35,Ground,0,5,3400,25,12/10/2016
+828,94,62%,8,90%,139,Omastar,Rock,Water,140,207,227,Rock Throw,12,Rock,1,1360,15,Rock Slide,50,Rock,1,5,3200,33,8/19/2016
+31,18,71%,34,60%,6,Charizard,Fire,Flying,156,223,176,Ember,10,Fire,1,1050,10,Fire Blast,100,Fire,1,5,4100,100,12/10/2016
+806,8,82%,34,55%,135,Jolteon,Electric,,130,232,201,Thunder Shock,5,Electric,1,600,8,Thunderbolt,55,Electric,1,5,2700,50,12/10/2016
+422,51,51%,26,59%,73,Tentacruel,Water,Poison,160,166,237,Acid,10,Poison,1,1050,10,Hydro Pump,90,Water,1,5,3800,100,12/10/2016
+197,42,66%,72,45%,36,Clefable,Fairy,,190,178,171,Pound,7,Normal,0,540,7,Moonblast,85,Fairy,1,5,4100,100,12/10/2016
+829,96,61%,94,54%,139,Omastar,Rock,Water,140,207,227,Water Gun,6,Water,1,500,7,Ancient Power,35,Rock,1,5,3600,25,12/10/2016
+810,6,92%,20,65%,136,Flareon,Fire,,130,246,204,Ember,10,Fire,1,1050,10,Heat Wave,80,Fire,1,5,3800,100,12/10/2016
+54,74,58%,121,39%,9,Blastoise,Water,,158,171,210,Bite,6,Dark,0,500,7,Hydro Pump,90,Water,1,5,3800,100,12/10/2016
+33,21,70%,21,66%,6,Charizard,Fire,Flying,156,223,176,Ember,10,Fire,1,1050,10,Flamethrower,55,Fire,1,5,2900,50,12/10/2016
+470,101,52%,58,58%,80,Slowbro,Water,Psychic,190,177,194,Water Gun,6,Water,1,500,7,Water Pulse,35,Water,1,5,3300,25,12/10/2016
+147,69,69%,114,48%,28,Sandslash,Ground,,150,182,202,Metal Claw,8,Steel,0,630,7,Earthquake,100,Ground,1,5,4200,100,12/10/2016
+318,12,80%,142,41%,55,Golduck,Water,,160,191,163,Water Gun,6,Water,1,500,7,Hydro Pump,90,Water,1,5,3800,100,12/10/2016
+166,24,69%,20,59%,31,Nidoqueen,Poison,Ground,180,180,174,Poison Jab,12,Poison,1,1050,10,Sludge Wave,70,Poison,1,5,3400,100,12/10/2016
+423,52,49%,36,54%,73,Tentacruel,Water,Poison,160,166,237,Acid,10,Poison,1,1050,10,Sludge Wave,70,Poison,1,5,3400,100,12/10/2016
+424,53,49%,33,57%,73,Tentacruel,Water,Poison,160,166,237,Acid,10,Poison,1,1050,10,Blizzard,100,Ice,0,5,3900,100,12/10/2016
+475,105,50%,14,82%,80,Slowbro,Water,Psychic,190,177,194,Confusion,15,Psychic,1,1510,14,Ice Beam,65,Ice,0,5,3650,50,12/10/2016
+377,3,86%,15,76%,65,Alakazam,Psychic,,110,271,194,Confusion,15,Psychic,1,1510,14,Psychic,55,Psychic,1,5,2800,50,12/10/2016
+183,12,79%,35,60%,34,Nidoking,Poison,Ground,162,204,157,Poison Jab,12,Poison,1,1050,10,Earthquake,100,Ground,1,5,4200,100,12/10/2016
+397,30,69%,66,46%,68,Machamp,Fighting,,180,234,162,Karate Chop,6,Fighting,1,800,8,Cross Chop,60,Fighting,1,25,2000,100,12/10/2016
+167,26,68%,23,57%,31,Nidoqueen,Poison,Ground,180,180,174,Poison Jab,12,Poison,1,1050,10,Stone Edge,80,Rock,0,50,3100,100,12/10/2016
+778,49,68%,26,62%,128,Tauros,Normal,,150,198,197,Tackle,12,Normal,1,1100,10,Earthquake,100,Ground,0,5,4200,100,12/10/2016
+852,17,76%,116,43%,142,Aerodactyl,Rock,Flying,160,221,164,Bite,6,Dark,0,500,7,Hyper Beam,120,Normal,0,5,5000,100,12/10/2016
+360,107,59%,2,94%,62,Poliwrath,Water,Fighting,180,182,187,Bubble,25,Water,1,2300,25,Submission,30,Fighting,1,5,2100,33,12/10/2016
+680,252,21%,178,43%,113,Chansey,Normal,,500,60,176,Pound,7,Normal,1,540,7,Psychic,55,Psychic,0,5,2800,50,12/10/2016
+50,88,55%,93,46%,9,Blastoise,Water,,158,171,210,Water Gun,6,Water,1,500,7,Ice Beam,65,Ice,0,5,3650,50,12/10/2016
+584,100,53%,18,71%,97,Hypno,Psychic,,170,144,215,Zen Headbutt,12,Psychic,1,1050,9,Psychic,55,Psychic,1,5,2800,50,12/10/2016
+169,28,66%,41,37%,31,Nidoqueen,Poison,Ground,180,180,174,Bite,6,Dark,0,500,7,Sludge Wave,70,Poison,1,5,3400,100,12/10/2016
+196,52,60%,74,44%,36,Clefable,Fairy,,190,178,171,Pound,7,Normal,0,540,7,Psychic,55,Psychic,0,5,2800,50,12/10/2016
+774,19,76%,120,43%,127,Pinsir,Bug,,130,238,197,Fury Cutter,3,Bug,1,400,6,X-Scissor,35,Bug,1,5,2100,33,12/10/2016
+530,114,46%,24,71%,89,Muk,Poison,,210,190,184,Acid,10,Poison,1,1050,10,Dark Pulse,45,Dark,0,5,3500,33,8/19/2016
+733,7,87%,197,41%,121,Starmie,Water,Psychic,120,210,184,Water Gun,6,Water,1,500,7,Hydro Pump,90,Water,1,5,3800,100,12/10/2016
+690,20,72%,54,52%,114,Tangela,Grass,,130,183,205,Vine Whip,7,Grass,1,650,7,Solar Beam,120,Grass,1,5,4900,100,12/10/2016
+444,116,48%,18,78%,76,Golem,Rock,Ground,160,211,229,Rock Throw,12,Rock,1,1360,15,Ancient Power,35,Rock,1,5,3600,25,12/10/2016
+255,16,75%,40,61%,45,Vileplume,Grass,Poison,150,202,170,Acid,10,Poison,1,1050,10,Solar Beam,120,Grass,1,5,4900,100,12/10/2016
+692,62,55%,19,67%,115,Kangaskhan,Normal,,210,181,165,Mud Slap,15,Ground,0,1350,12,Earthquake,100,Ground,0,5,4200,100,12/10/2016
+170,29,64%,42,36%,31,Nidoqueen,Poison,Ground,180,180,174,Bite,6,Dark,0,500,7,Stone Edge,80,Rock,0,50,3100,100,12/10/2016
+252,18,75%,12,72%,45,Vileplume,Grass,Poison,150,202,170,Razor Leaf,15,Grass,1,1450,12,Solar Beam,120,Grass,1,5,4900,100,12/10/2016
+375,7,81%,83,53%,65,Alakazam,Psychic,,110,271,194,Psycho Cut,7,Psychic,1,570,7,Dazzling Gleam,55,Fairy,0,5,4200,33,12/10/2016
+376,7,81%,105,49%,65,Alakazam,Psychic,,110,271,194,Psycho Cut,7,Psychic,1,570,7,Shadow Ball,45,Ghost,0,5,3080,33,12/10/2016
+395,37,65%,62,46%,68,Machamp,Fighting,,180,234,162,Karate Chop,6,Fighting,1,800,8,Stone Edge,80,Rock,0,50,3100,100,12/10/2016
+184,29,74%,65,54%,34,Nidoking,Poison,Ground,162,204,157,Poison Jab,12,Poison,1,1050,10,Sludge Wave,70,Poison,1,5,3400,100,12/10/2016
+739,8,85%,169,44%,121,Starmie,Water,Psychic,120,210,184,Water Gun,6,Water,1,500,7,Psychic,55,Psychic,1,5,2800,50,12/10/2016
+32,47,62%,56,53%,6,Charizard,Fire,Flying,156,223,176,Ember,10,Fire,1,1050,10,Dragon Claw,35,Dragon,0,25,1500,50,12/10/2016
+570,1,100%,49,60%,94,Gengar,Ghost,Poison,120,261,156,Shadow Claw,11,Ghost,1,950,8,Sludge Bomb,55,Poison,1,5,2600,50,12/10/2016
+843,14,82%,164,40%,141,Kabutops,Rock,Water,120,220,203,Mud Shot,6,Ground,0,550,7,Stone Edge,80,Rock,1,50,3100,100,12/10/2016
+693,69,54%,4,83%,115,Kangaskhan,Normal,,210,181,165,Mud Slap,15,Ground,0,1350,12,Stomp,30,Normal,1,5,2100,25,12/10/2016
+195,62,57%,29,59%,36,Clefable,Fairy,,190,178,171,Pound,7,Normal,0,540,7,Dazzling Gleam,55,Fairy,1,5,4200,33,12/10/2016
+251,28,73%,8,78%,45,Vileplume,Grass,Poison,150,202,170,Razor Leaf,15,Grass,1,1450,12,Petal Blizzard,65,Grass,1,5,3200,50,12/10/2016
+49,104,51%,74,52%,9,Blastoise,Water,,158,171,210,Water Gun,6,Water,1,500,7,Flash Cannon,60,Steel,0,5,3900,33,12/10/2016
+185,39,72%,71,53%,34,Nidoking,Poison,Ground,162,204,157,Poison Jab,12,Poison,1,1050,10,Megahorn,80,Bug,0,5,3200,100,12/10/2016
+587,115,50%,8,79%,97,Hypno,Psychic,,170,144,215,Confusion,15,Psychic,1,1510,14,Psychic,55,Psychic,1,5,2800,50,12/10/2016
+771,41,72%,12,77%,127,Pinsir,Bug,,130,238,197,Rock Smash,15,Fighting,0,1410,12,X-Scissor,35,Bug,1,5,2100,33,12/10/2016
+682,253,19%,127,48%,113,Chansey,Normal,,500,60,176,Pound,7,Normal,1,540,7,Dazzling Gleam,55,Fairy,0,5,4200,33,12/10/2016
+681,253,19%,170,43%,113,Chansey,Normal,,500,60,176,Pound,7,Normal,1,540,7,Psybeam,40,Psychic,0,5,3800,25,8/19/2016
+396,39,63%,37,55%,68,Machamp,Fighting,,180,234,162,Karate Chop,6,Fighting,1,800,8,Submission,30,Fighting,1,5,2100,33,12/10/2016
+363,132,54%,122,44%,62,Poliwrath,Water,Fighting,180,182,187,Mud Shot,6,Ground,0,550,7,Submission,30,Fighting,1,5,2100,33,12/10/2016
+254,31,72%,18,68%,45,Vileplume,Grass,Poison,150,202,170,Acid,10,Poison,1,1050,10,Petal Blizzard,65,Grass,1,5,3200,50,12/10/2016
+222,38,75%,126,44%,40,Wigglytuff,Normal,Fairy,280,156,93,Pound,7,Normal,1,540,7,Hyper Beam,120,Normal,1,5,5000,100,12/10/2016
+748,13,82%,121,46%,123,Scyther,Bug,Flying,140,218,170,Fury Cutter,3,Bug,1,400,6,Bug Buzz,75,Bug,1,5,4250,50,12/10/2016
+687,255,19%,91,54%,113,Chansey,Normal,,500,60,176,Zen Headbutt,12,Psychic,0,1050,9,Hyper Beam,120,Normal,1,5,5000,100,12/10/2016
+805,28,69%,41,50%,135,Jolteon,Electric,,130,232,201,Thunder Shock,5,Electric,1,600,8,Discharge,35,Electric,1,5,2500,33,12/10/2016
+394,41,62%,54,50%,68,Machamp,Fighting,,180,234,162,Bullet Punch,10,Steel,0,1200,10,Cross Chop,60,Fighting,1,25,2000,100,12/10/2016
+536,115,42%,96,44%,89,Muk,Poison,,210,190,184,Lick,5,Ghost,0,500,6,Dark Pulse,45,Dark,0,5,3500,33,12/10/2016
+317,63,69%,147,40%,55,Golduck,Water,,160,191,163,Water Gun,6,Water,1,500,7,Psychic,55,Psychic,0,5,2800,50,12/10/2016
+53,110,49%,115,41%,9,Blastoise,Water,,158,171,210,Bite,6,Dark,0,500,7,Ice Beam,65,Ice,0,5,3650,50,12/10/2016
+583,120,49%,21,69%,97,Hypno,Psychic,,170,144,215,Zen Headbutt,12,Psychic,1,1050,9,Psyshock,40,Psychic,1,5,2700,33,12/10/2016
+473,116,44%,15,81%,80,Slowbro,Water,Psychic,190,177,194,Confusion,15,Psychic,1,1510,14,Water Pulse,35,Water,1,5,3300,25,12/10/2016
+849,60,68%,29,62%,142,Aerodactyl,Rock,Flying,160,221,164,Steel Wing,15,Steel,0,1330,12,Hyper Beam,120,Normal,0,5,5000,100,12/10/2016
+757,12,81%,70,49%,124,Jynx,Ice,Psychic,130,223,182,Pound,7,Normal,0,540,7,Psyshock,40,Psychic,1,5,2700,33,12/10/2016
+517,110,58%,80,50%,87,Dewgong,Water,Ice,180,139,184,Frost Breath,9,Ice,1,810,7,Blizzard,100,Ice,1,5,3900,100,12/10/2016
+545,101,55%,82,49%,91,Cloyster,Water,Ice,100,186,323,Frost Breath,9,Ice,1,810,7,Icy Wind,25,Ice,1,5,3800,20,12/10/2016
+754,13,81%,34,59%,124,Jynx,Ice,Psychic,130,223,182,Frost Breath,9,Ice,1,810,7,Psyshock,40,Psychic,1,5,2700,33,12/10/2016
+691,77,51%,13,72%,115,Kangaskhan,Normal,,210,181,165,Mud Slap,15,Ground,0,1350,12,Brick Break,30,Fighting,0,25,1600,33,12/10/2016
+200,68,55%,45,55%,36,Clefable,Fairy,,190,178,171,Zen Headbutt,12,Psychic,0,1050,9,Moonblast,85,Fairy,1,5,4100,100,12/10/2016
+186,57,70%,163,31%,34,Nidoking,Poison,Ground,162,204,157,Fury Cutter,3,Bug,0,400,6,Earthquake,100,Ground,1,5,4200,100,12/10/2016
+212,23,64%,24,56%,38,Ninetales,Fire,,146,169,204,Ember,10,Fire,1,1050,10,Fire Blast,100,Fire,1,5,4100,100,12/10/2016
+688,33,66%,73,42%,114,Tangela,Grass,,130,183,205,Vine Whip,7,Grass,1,650,7,Power Whip,70,Grass,1,0,2800,100,12/10/2016
+361,148,52%,5,88%,62,Poliwrath,Water,Fighting,180,182,187,Bubble,25,Water,1,2300,25,Ice Punch,45,Ice,0,5,3500,33,12/10/2016
+751,19,79%,7,75%,123,Scyther,Bug,Flying,140,218,170,Steel Wing,15,Steel,0,1330,12,Bug Buzz,75,Bug,1,5,4250,50,12/10/2016
+781,67,59%,52,55%,128,Tauros,Normal,,150,198,197,Zen Headbutt,12,Psychic,0,1050,9,Earthquake,100,Ground,0,5,4200,100,12/10/2016
+662,75,66%,29,73%,110,Weezing,Poison,,130,174,221,Acid,10,Poison,1,1050,10,Sludge Bomb,55,Poison,1,5,2600,50,8/19/2016
+777,69,59%,24,63%,128,Tauros,Normal,,150,198,197,Tackle,12,Normal,1,1100,10,Iron Head,30,Steel,0,5,2000,33,12/10/2016
+569,2,93%,93,52%,94,Gengar,Ghost,Poison,120,261,156,Shadow Claw,11,Ghost,1,950,8,Sludge Wave,70,Poison,1,5,3400,100,8/19/2016
+346,111,53%,104,48%,59,Arcanine,Fire,,180,227,166,Bite,6,Dark,0,500,7,Bulldoze,35,Ground,0,5,3400,25,12/10/2016
+319,75,67%,137,43%,55,Golduck,Water,,160,191,163,Water Gun,6,Water,1,500,7,Ice Beam,65,Ice,0,5,3650,50,12/10/2016
+846,36,77%,192,30%,141,Kabutops,Rock,Water,120,220,203,Fury Cutter,3,Bug,0,400,6,Stone Edge,80,Rock,1,50,3100,100,12/10/2016
+209,26,63%,27,55%,38,Ninetales,Fire,,146,169,204,Feint Attack,12,Dark,0,1040,10,Fire Blast,100,Fire,1,5,4100,100,12/10/2016
+520,123,56%,30,62%,87,Dewgong,Water,Ice,180,139,184,Ice Shard,15,Ice,1,1400,12,Blizzard,100,Ice,1,5,3900,100,12/10/2016
+696,80,50%,62,51%,115,Kangaskhan,Normal,,210,181,165,Low Kick,5,Fighting,0,600,7,Stomp,30,Normal,1,5,2100,25,12/10/2016
+695,81,50%,83,42%,115,Kangaskhan,Normal,,210,181,165,Low Kick,5,Fighting,0,600,7,Earthquake,100,Ground,0,5,4200,100,12/10/2016
+211,29,62%,15,62%,38,Ninetales,Fire,,146,169,204,Ember,10,Fire,1,1050,10,Flamethrower,55,Fire,1,5,2900,50,12/10/2016
+596,14,80%,67,56%,99,Kingler,Water,,110,240,214,Metal Claw,8,Steel,0,630,7,X-Scissor,35,Bug,0,5,2100,33,12/10/2016
+776,73,58%,17,67%,128,Tauros,Normal,,150,198,197,Tackle,12,Normal,1,1100,10,Horn Attack,25,Normal,1,5,2200,25,12/10/2016
+198,76,53%,15,67%,36,Clefable,Fairy,,190,178,171,Zen Headbutt,12,Psychic,0,1050,9,Dazzling Gleam,55,Fairy,1,5,4200,33,12/10/2016
+566,3,92%,113,49%,94,Gengar,Ghost,Poison,120,261,156,Sucker Punch,7,Dark,0,700,9,Sludge Bomb,55,Poison,1,5,2600,50,12/10/2016
+199,77,53%,30,59%,36,Clefable,Fairy,,190,178,171,Zen Headbutt,12,Psychic,0,1050,9,Psychic,55,Psychic,0,5,2800,50,12/10/2016
+548,111,53%,38,61%,91,Cloyster,Water,Ice,100,186,323,Ice Shard,15,Ice,1,1400,12,Icy Wind,25,Ice,1,5,3800,20,12/10/2016
+415,4,86%,21,64%,71,Victreebel,Grass,Poison,160,207,138,Acid,10,Poison,1,1050,10,Solar Beam,120,Grass,1,5,4900,100,12/10/2016
+52,123,46%,88,48%,9,Blastoise,Water,,158,171,210,Bite,6,Dark,0,500,7,Flash Cannon,60,Steel,0,5,3900,33,12/10/2016
+208,32,61%,19,61%,38,Ninetales,Fire,,146,169,204,Feint Attack,12,Dark,0,1040,10,Flamethrower,55,Fire,1,5,2900,50,12/10/2016
+412,5,86%,9,76%,71,Victreebel,Grass,Poison,160,207,138,Razor Leaf,15,Grass,1,1450,12,Solar Beam,120,Grass,1,5,4900,100,12/10/2016
+393,54,58%,24,59%,68,Machamp,Fighting,,180,234,162,Bullet Punch,10,Steel,0,1200,10,Submission,30,Fighting,1,5,2100,33,12/10/2016
+392,54,58%,49,51%,68,Machamp,Fighting,,180,234,162,Bullet Punch,10,Steel,0,1200,10,Stone Edge,80,Rock,0,50,3100,100,12/10/2016
+665,87,63%,33,71%,110,Weezing,Poison,,130,174,221,Tackle,12,Normal,0,1100,10,Sludge Bomb,55,Poison,1,5,2600,50,12/10/2016
+753,28,76%,37,57%,124,Jynx,Ice,Psychic,130,223,182,Frost Breath,9,Ice,1,810,7,Ice Punch,45,Ice,1,5,3500,33,12/10/2016
+567,4,89%,42,62%,94,Gengar,Ghost,Poison,120,261,156,Shadow Claw,11,Ghost,1,950,8,Shadow Ball,45,Ghost,1,5,3080,33,12/10/2016
+87,62,79%,95,53%,18,Pidgeot,Normal,Flying,166,166,157,Wing Attack,9,Flying,1,750,7,Hurricane,80,Flying,1,5,3200,100,12/10/2016
+689,37,63%,69,44%,114,Tangela,Grass,,130,183,205,Vine Whip,7,Grass,1,650,7,Sludge Bomb,55,Poison,0,5,2600,50,12/10/2016
+586,125,46%,8,79%,97,Hypno,Psychic,,170,144,215,Confusion,15,Psychic,1,1510,14,Psyshock,40,Psychic,1,5,2700,33,12/10/2016
+223,76,69%,141,41%,40,Wigglytuff,Normal,Fairy,280,156,93,Pound,7,Normal,1,540,7,Play Rough,55,Fairy,1,5,2900,50,12/10/2016
+207,33,60%,34,50%,38,Ninetales,Fire,,146,169,204,Feint Attack,12,Dark,0,1040,10,Heat Wave,80,Fire,1,5,3800,100,12/10/2016
+756,32,75%,56,52%,124,Jynx,Ice,Psychic,130,223,182,Pound,7,Normal,0,540,7,Ice Punch,45,Ice,1,5,3500,33,12/10/2016
+747,42,75%,171,37%,123,Scyther,Bug,Flying,140,218,170,Fury Cutter,3,Bug,1,400,6,X-Scissor,35,Bug,1,5,2100,33,12/10/2016
+379,22,70%,27,68%,65,Alakazam,Psychic,,110,271,194,Confusion,15,Psychic,1,1510,14,Shadow Ball,45,Ghost,0,5,3080,33,12/10/2016
+851,76,63%,129,40%,142,Aerodactyl,Rock,Flying,160,221,164,Bite,6,Dark,0,500,7,Iron Head,30,Steel,0,5,2000,33,12/10/2016
+411,6,83%,5,78%,71,Victreebel,Grass,Poison,160,207,138,Razor Leaf,15,Grass,1,1450,12,Sludge Bomb,55,Poison,1,5,2600,50,12/10/2016
+826,164,47%,25,74%,139,Omastar,Rock,Water,140,207,227,Rock Throw,12,Rock,1,1360,15,Ancient Power,35,Rock,1,5,3600,25,8/19/2016
+832,164,47%,119,49%,139,Omastar,Rock,Water,140,207,227,Mud Shot,6,Ground,0,550,7,Ancient Power,35,Rock,1,5,3600,25,12/10/2016
+641,5,96%,4,85%,106,Hitmonlee,Fighting,,100,224,211,Rock Smash,15,Fighting,1,1410,12,Brick Break,30,Fighting,1,25,1600,33,12/10/2016
+210,34,59%,32,51%,38,Ninetales,Fire,,146,169,204,Ember,10,Fire,1,1050,10,Heat Wave,80,Fire,1,5,3800,100,12/10/2016
+750,50,73%,21,65%,123,Scyther,Bug,Flying,140,218,170,Steel Wing,15,Steel,0,1330,12,X-Scissor,35,Bug,1,5,2100,33,12/10/2016
+585,126,44%,30,65%,97,Hypno,Psychic,,170,144,215,Zen Headbutt,12,Psychic,1,1050,9,Shadow Ball,45,Ghost,0,5,3080,33,12/10/2016
+599,34,75%,73,53%,99,Kingler,Water,,110,240,214,Mud Shot,6,Ground,0,550,7,X-Scissor,35,Bug,0,5,2100,33,12/10/2016
+694,85,46%,82,42%,115,Kangaskhan,Normal,,210,181,165,Low Kick,5,Fighting,0,600,7,Brick Break,30,Fighting,0,25,1600,33,12/10/2016
+760,17,88%,66,46%,125,Electabuzz,Electric,,130,198,173,Thunder Shock,5,Electric,1,600,8,Thunder,100,Electric,1,5,4300,100,12/10/2016
+152,146,53%,113,48%,28,Sandslash,Ground,,150,182,202,Mud Shot,6,Ground,1,550,7,Bulldoze,35,Ground,1,5,3400,25,12/10/2016
+151,146,53%,160,39%,28,Sandslash,Ground,,150,182,202,Mud Shot,6,Ground,1,550,7,Rock Tomb,30,Rock,0,25,3400,25,12/10/2016
+410,7,81%,8,76%,71,Victreebel,Grass,Poison,160,207,138,Razor Leaf,15,Grass,1,1450,12,Leaf Blade,55,Grass,1,25,2800,50,12/10/2016
+414,7,81%,16,67%,71,Victreebel,Grass,Poison,160,207,138,Acid,10,Poison,1,1050,10,Sludge Bomb,55,Poison,1,5,2600,50,12/10/2016
+764,11,90%,45,63%,126,Magmar,Fire,,130,206,169,Ember,10,Fire,1,1050,10,Fire Blast,100,Fire,1,5,4100,100,12/10/2016
+253,59,62%,42,60%,45,Vileplume,Grass,Poison,150,202,170,Razor Leaf,15,Grass,1,1450,12,Moonblast,85,Fairy,0,5,4100,100,12/10/2016
+413,10,80%,16,67%,71,Victreebel,Grass,Poison,160,207,138,Acid,10,Poison,1,1050,10,Leaf Blade,55,Grass,1,25,2800,50,12/10/2016
+461,10,90%,47,62%,78,Rapidash,Fire,,130,207,167,Ember,10,Fire,1,1050,10,Fire Blast,100,Fire,1,5,4100,100,12/10/2016
+759,22,87%,53,54%,125,Electabuzz,Electric,,130,198,173,Thunder Shock,5,Electric,1,600,8,Thunderbolt,55,Electric,1,5,2700,50,12/10/2016
+597,41,73%,47,64%,99,Kingler,Water,,110,240,214,Metal Claw,8,Steel,0,630,7,Water Pulse,35,Water,1,5,3300,25,12/10/2016
+780,90,53%,55,53%,128,Tauros,Normal,,150,198,197,Zen Headbutt,12,Psychic,0,1050,9,Iron Head,30,Steel,0,5,2000,33,12/10/2016
+779,91,53%,37,58%,128,Tauros,Normal,,150,198,197,Zen Headbutt,12,Psychic,0,1050,9,Horn Attack,25,Normal,1,5,2200,25,12/10/2016
+640,8,92%,26,70%,106,Hitmonlee,Fighting,,100,224,211,Rock Smash,15,Fighting,1,1410,12,Stone Edge,80,Rock,0,50,3100,100,12/10/2016
+364,160,47%,131,43%,62,Poliwrath,Water,Fighting,180,182,187,Mud Shot,6,Ground,0,550,7,Ice Punch,45,Ice,0,5,3500,33,12/10/2016
+684,256,16%,110,50%,113,Chansey,Normal,,500,60,176,Zen Headbutt,12,Psychic,0,1050,9,Psychic,55,Psychic,0,5,2800,50,12/10/2016
+752,45,71%,72,49%,124,Jynx,Ice,Psychic,130,223,182,Frost Breath,9,Ice,1,810,7,Draining Kiss,25,Fairy,0,5,2800,20,12/10/2016
+378,42,67%,22,70%,65,Alakazam,Psychic,,110,271,194,Confusion,15,Psychic,1,1510,14,Dazzling Gleam,55,Fairy,0,5,4200,33,12/10/2016
+705,4,96%,93,46%,117,Seadra,Water,,110,187,182,Water Gun,6,Water,1,500,7,Hydro Pump,90,Water,1,5,3800,100,12/10/2016
+766,17,87%,23,70%,126,Magmar,Fire,,130,206,169,Ember,10,Fire,1,1050,10,Flamethrower,55,Fire,1,5,2900,50,12/10/2016
+772,85,60%,31,65%,127,Pinsir,Bug,,130,238,197,Rock Smash,15,Fighting,0,1410,12,Submission,30,Fighting,0,5,2100,33,12/10/2016
+848,93,59%,37,59%,142,Aerodactyl,Rock,Flying,160,221,164,Steel Wing,15,Steel,0,1330,12,Iron Head,30,Steel,0,5,2000,33,12/10/2016
+256,63,61%,84,50%,45,Vileplume,Grass,Poison,150,202,170,Acid,10,Poison,1,1050,10,Moonblast,85,Fairy,0,5,4100,100,12/10/2016
+321,110,59%,46,59%,55,Golduck,Water,,160,191,163,Confusion,15,Psychic,0,1510,14,Hydro Pump,90,Water,1,5,3800,100,12/10/2016
+738,59,70%,81,55%,121,Starmie,Water,Psychic,120,210,184,Tackle,12,Normal,0,1100,10,Psychic,55,Psychic,1,5,2800,50,12/10/2016
+775,86,60%,142,34%,127,Pinsir,Bug,,130,238,197,Fury Cutter,3,Bug,1,400,6,Submission,30,Fighting,0,5,2100,33,12/10/2016
+595,45,71%,63,58%,99,Kingler,Water,,110,240,214,Metal Claw,8,Steel,0,630,7,Vice Grip,25,Normal,0,5,2100,20,12/10/2016
+637,17,89%,86,50%,106,Hitmonlee,Fighting,,100,224,211,Low Kick,5,Fighting,1,600,7,Brick Break,30,Fighting,1,25,1600,33,12/10/2016
+568,5,81%,81,54%,94,Gengar,Ghost,Poison,120,261,156,Shadow Claw,11,Ghost,1,950,8,Dark Pulse,45,Dark,0,5,3500,33,12/10/2016
+736,69,68%,149,47%,121,Starmie,Water,Psychic,120,210,184,Tackle,12,Normal,0,1100,10,Hydro Pump,90,Water,1,5,3800,100,12/10/2016
+149,160,50%,108,49%,28,Sandslash,Ground,,150,182,202,Metal Claw,8,Steel,0,630,7,Bulldoze,35,Ground,1,5,3400,25,12/10/2016
+588,127,41%,19,70%,97,Hypno,Psychic,,170,144,215,Confusion,15,Psychic,1,1510,14,Shadow Ball,45,Ghost,0,5,3080,33,12/10/2016
+850,102,57%,101,46%,142,Aerodactyl,Rock,Flying,160,221,164,Bite,6,Dark,0,500,7,Ancient Power,35,Rock,1,5,3600,25,12/10/2016
+563,6,80%,98,52%,94,Gengar,Ghost,Poison,120,261,156,Sucker Punch,7,Dark,0,700,9,Shadow Ball,45,Ghost,1,5,3080,33,12/10/2016
+148,161,49%,158,40%,28,Sandslash,Ground,,150,182,202,Metal Claw,8,Steel,0,630,7,Rock Tomb,30,Rock,0,25,3400,25,12/10/2016
+735,72,68%,152,47%,121,Starmie,Water,Psychic,120,210,184,Water Gun,6,Water,1,500,7,Psybeam,40,Psychic,1,5,3800,25,8/19/2016
+734,72,68%,200,40%,121,Starmie,Water,Psychic,120,210,184,Water Gun,6,Water,1,500,7,Power Gem,40,Rock,0,5,2900,33,12/10/2016
+565,7,79%,177,36%,94,Gengar,Ghost,Poison,120,261,156,Sucker Punch,7,Dark,0,700,9,Sludge Wave,70,Poison,1,5,3400,100,8/19/2016
+600,50,69%,49,62%,99,Kingler,Water,,110,240,214,Mud Shot,6,Ground,0,550,7,Water Pulse,35,Water,1,5,3300,25,12/10/2016
+225,122,61%,112,47%,40,Wigglytuff,Normal,Fairy,280,156,93,Feint Attack,12,Dark,0,1040,10,Hyper Beam,120,Normal,1,5,5000,100,12/10/2016
+639,24,87%,6,83%,106,Hitmonlee,Fighting,,100,224,211,Rock Smash,15,Fighting,1,1410,12,Low Sweep,30,Fighting,1,5,2250,25,12/10/2016
+277,7,92%,92,54%,49,Venomoth,Bug,Poison,140,179,150,Bug Bite,5,Bug,1,450,7,Bug Buzz,75,Bug,1,5,4250,50,12/10/2016
+758,34,81%,55,54%,125,Electabuzz,Electric,,130,198,173,Thunder Shock,5,Electric,1,600,8,Thunder Punch,40,Electric,1,5,2400,33,12/10/2016
+703,7,91%,96,44%,117,Seadra,Water,,110,187,182,Water Gun,6,Water,1,500,7,Blizzard,100,Ice,0,5,3900,100,12/10/2016
+755,54,66%,91,40%,124,Jynx,Ice,Psychic,130,223,182,Pound,7,Normal,0,540,7,Draining Kiss,25,Fairy,0,5,2800,20,12/10/2016
+770,100,57%,26,67%,127,Pinsir,Bug,,130,238,197,Rock Smash,15,Fighting,0,1410,12,Vice Grip,25,Normal,0,5,2100,20,12/10/2016
+463,31,83%,65,57%,78,Rapidash,Fire,,130,207,167,Ember,10,Fire,1,1050,10,Heat Wave,80,Fire,1,5,3800,100,12/10/2016
+187,117,57%,169,25%,34,Nidoking,Poison,Ground,162,204,157,Fury Cutter,3,Bug,0,400,6,Sludge Wave,70,Poison,1,5,3400,100,12/10/2016
+847,111,55%,18,67%,142,Aerodactyl,Rock,Flying,160,221,164,Steel Wing,15,Steel,0,1330,12,Ancient Power,35,Rock,1,5,3600,25,12/10/2016
+636,32,84%,107,40%,106,Hitmonlee,Fighting,,100,224,211,Low Kick,5,Fighting,1,600,7,Stone Edge,80,Rock,0,50,3100,100,12/10/2016
+140,4,94%,68,57%,26,Raichu,Electric,,120,193,165,Spark,7,Electric,1,700,8,Thunder,100,Electric,1,5,4300,100,12/10/2016
+773,106,56%,137,38%,127,Pinsir,Bug,,130,238,197,Fury Cutter,3,Bug,1,400,6,Vice Grip,25,Normal,0,5,2100,20,12/10/2016
+221,134,58%,108,48%,40,Wigglytuff,Normal,Fairy,280,156,93,Pound,7,Normal,1,540,7,Dazzling Gleam,55,Fairy,1,5,4200,33,12/10/2016
+649,12,87%,5,92%,107,Hitmonchan,Fighting,,100,193,212,Rock Smash,15,Fighting,1,1410,12,Brick Break,30,Fighting,1,25,1600,33,12/10/2016
+458,45,80%,114,42%,78,Rapidash,Fire,,130,207,167,Low Kick,5,Fighting,0,600,7,Fire Blast,100,Fire,1,5,4100,100,12/10/2016
+762,43,78%,70,44%,125,Electabuzz,Electric,,130,198,173,Low Kick,5,Fighting,0,600,7,Thunderbolt,55,Electric,1,5,2700,50,12/10/2016
+842,124,62%,111,49%,141,Kabutops,Rock,Water,120,220,203,Mud Shot,6,Ground,0,550,7,Water Pulse,35,Water,1,5,3300,25,12/10/2016
+663,133,53%,46,66%,110,Weezing,Poison,,130,174,221,Acid,10,Poison,1,1050,10,Shadow Ball,45,Ghost,0,5,3080,33,8/19/2016
+484,1,100%,29,79%,82,Magneton,Electric,Steel,100,223,182,Spark,7,Electric,1,700,8,Flash Cannon,60,Steel,1,5,3900,33,12/10/2016
+765,52,79%,32,68%,126,Magmar,Fire,,130,206,169,Ember,10,Fire,1,1050,10,Fire Punch,40,Fire,1,5,2800,33,12/10/2016
+320,142,53%,63,56%,55,Golduck,Water,,160,191,163,Confusion,15,Psychic,0,1510,14,Psychic,55,Psychic,0,5,2800,50,12/10/2016
+708,19,86%,103,41%,117,Seadra,Water,,110,187,182,Dragon Breath,6,Dragon,0,500,7,Hydro Pump,90,Water,1,5,3800,100,12/10/2016
+188,128,55%,170,24%,34,Nidoking,Poison,Ground,162,204,157,Fury Cutter,3,Bug,0,400,6,Megahorn,80,Bug,0,5,3200,100,12/10/2016
+90,138,66%,45,64%,18,Pidgeot,Normal,Flying,166,166,157,Steel Wing,15,Steel,0,1330,12,Hurricane,80,Flying,1,5,3200,100,12/10/2016
+763,46,76%,73,42%,125,Electabuzz,Electric,,130,198,173,Low Kick,5,Fighting,0,600,7,Thunder,100,Electric,1,5,4300,100,12/10/2016
+322,145,53%,42,60%,55,Golduck,Water,,160,191,163,Confusion,15,Psychic,0,1510,14,Ice Beam,65,Ice,0,5,3650,50,12/10/2016
+88,140,66%,99,53%,18,Pidgeot,Normal,Flying,166,166,157,Wing Attack,9,Flying,1,750,7,Aerial Ace,30,Flying,1,5,2900,25,12/10/2016
+89,140,66%,105,52%,18,Pidgeot,Normal,Flying,166,166,157,Wing Attack,9,Flying,1,750,7,Air Cutter,30,Flying,1,25,3300,25,12/10/2016
+686,257,14%,108,51%,113,Chansey,Normal,,500,60,176,Zen Headbutt,12,Psychic,0,1050,9,Dazzling Gleam,55,Fairy,0,5,4200,33,12/10/2016
+598,62,64%,78,51%,99,Kingler,Water,,110,240,214,Mud Shot,6,Ground,0,550,7,Vice Grip,25,Normal,0,5,2100,20,12/10/2016
+608,21,86%,44,65%,101,Electrode,Electric,,120,173,179,Spark,7,Electric,1,700,8,Thunderbolt,55,Electric,1,5,2700,50,12/10/2016
+438,21,86%,95,47%,75,Graveler,Rock,Ground,110,164,196,Mud Shot,6,Ground,1,550,7,Stone Edge,80,Rock,1,50,3100,100,8/19/2016
+137,8,90%,83,50%,26,Raichu,Electric,,120,193,165,Thunder Shock,5,Electric,1,600,8,Thunder,100,Electric,1,5,4300,100,12/10/2016
+638,46,81%,16,77%,106,Hitmonlee,Fighting,,100,224,211,Rock Smash,15,Fighting,1,1410,12,Stomp,30,Normal,0,5,2100,25,8/19/2016
+69,5,94%,105,47%,15,Beedrill,Bug,Poison,130,169,150,Bug Bite,5,Bug,1,450,7,Sludge Bomb,55,Poison,1,5,2600,50,12/10/2016
+635,50,80%,80,52%,106,Hitmonlee,Fighting,,100,224,211,Low Kick,5,Fighting,1,600,7,Low Sweep,30,Fighting,1,5,2250,25,12/10/2016
+226,153,56%,103,49%,40,Wigglytuff,Normal,Fairy,280,156,93,Feint Attack,12,Dark,0,1040,10,Play Rough,55,Fairy,1,5,2900,50,12/10/2016
+516,141,44%,88,49%,87,Dewgong,Water,Ice,180,139,184,Frost Breath,9,Ice,1,810,7,Aqua Jet,25,Water,1,5,2350,20,12/10/2016
+515,141,44%,110,43%,87,Dewgong,Water,Ice,180,139,184,Frost Breath,9,Ice,1,810,7,Icy Wind,25,Ice,1,5,3800,20,12/10/2016
+487,2,97%,39,71%,82,Magneton,Electric,Steel,100,223,182,Thunder Shock,5,Electric,1,600,8,Flash Cannon,60,Steel,1,5,3900,33,12/10/2016
+841,142,59%,131,46%,141,Kabutops,Rock,Water,120,220,203,Mud Shot,6,Ground,0,550,7,Ancient Power,35,Rock,1,5,3600,25,12/10/2016
+761,50,74%,68,46%,125,Electabuzz,Electric,,130,198,173,Low Kick,5,Fighting,0,600,7,Thunder Punch,40,Electric,1,5,2400,33,12/10/2016
+666,136,50%,50,65%,110,Weezing,Poison,,130,174,221,Tackle,12,Normal,0,1100,10,Shadow Ball,45,Ghost,0,5,3080,33,12/10/2016
+744,2,99%,27,77%,122,Mr. Mime,Psychic,Fairy,80,192,233,Zen Headbutt,12,Psychic,1,1050,9,Psychic,55,Psychic,1,5,2800,50,12/10/2016
+720,81,63%,61,63%,119,Seaking,Water,,160,175,154,Poison Jab,12,Poison,0,1050,10,Megahorn,80,Bug,0,5,3200,100,12/10/2016
+276,35,82%,143,42%,49,Venomoth,Bug,Poison,140,179,150,Bug Bite,5,Bug,1,450,7,Psychic,55,Psychic,0,5,2800,50,12/10/2016
+630,57,76%,32,74%,105,Marowak,Ground,,120,144,200,Mud Slap,15,Ground,1,1350,12,Earthquake,100,Ground,1,5,4200,100,12/10/2016
+664,137,49%,50,65%,110,Weezing,Poison,,130,174,221,Acid,10,Poison,1,1050,10,Dark Pulse,45,Dark,0,5,3500,33,8/19/2016
+139,15,86%,50,65%,26,Raichu,Electric,,120,193,165,Spark,7,Electric,1,700,8,Thunder Punch,40,Electric,1,5,2400,33,12/10/2016
+704,31,81%,88,48%,117,Seadra,Water,,110,187,182,Water Gun,6,Water,1,500,7,Dragon Pulse,65,Dragon,0,5,3600,50,12/10/2016
+519,144,43%,27,63%,87,Dewgong,Water,Ice,180,139,184,Ice Shard,15,Ice,1,1400,12,Aqua Jet,25,Water,1,5,2350,20,12/10/2016
+518,144,43%,67,53%,87,Dewgong,Water,Ice,180,139,184,Ice Shard,15,Ice,1,1400,12,Icy Wind,25,Ice,1,5,3800,20,12/10/2016
+609,29,82%,67,56%,101,Electrode,Electric,,120,173,179,Spark,7,Electric,1,700,8,Hyper Beam,120,Normal,0,5,5000,100,12/10/2016
+441,30,82%,23,81%,75,Graveler,Rock,Ground,110,164,196,Mud Slap,15,Ground,1,1350,12,Stone Edge,80,Rock,1,50,3100,100,12/10/2016
+706,36,80%,105,39%,117,Seadra,Water,,110,187,182,Dragon Breath,6,Dragon,0,500,7,Blizzard,100,Ice,0,5,3900,100,12/10/2016
+845,160,57%,166,38%,141,Kabutops,Rock,Water,120,220,203,Fury Cutter,3,Bug,0,400,6,Water Pulse,35,Water,1,5,3300,25,12/10/2016
+685,258,13%,126,48%,113,Chansey,Normal,,500,60,176,Zen Headbutt,12,Psychic,0,1050,9,Psybeam,40,Psychic,0,5,3800,25,8/19/2016
+482,5,91%,55,64%,82,Magneton,Electric,Steel,100,223,182,Spark,7,Electric,1,700,8,Discharge,35,Electric,1,5,2500,33,12/10/2016
+767,76,72%,104,44%,126,Magmar,Fire,,130,206,169,Karate Chop,6,Fighting,0,800,8,Fire Blast,100,Fire,1,5,4100,100,12/10/2016
+769,77,72%,97,46%,126,Magmar,Fire,,130,206,169,Karate Chop,6,Fighting,0,800,8,Flamethrower,55,Fire,1,5,2900,50,12/10/2016
+72,14,88%,42,71%,15,Beedrill,Bug,Poison,130,169,150,Poison Jab,12,Poison,1,1050,10,Sludge Bomb,55,Poison,1,5,2600,50,12/10/2016
+439,39,79%,62,61%,75,Graveler,Rock,Ground,110,164,196,Mud Shot,6,Ground,1,550,7,Rock Slide,50,Rock,1,5,3200,33,8/19/2016
+329,3,79%,112,45%,57,Primeape,Fighting,,130,207,144,Low Kick,5,Fighting,1,600,7,Cross Chop,60,Fighting,1,25,2000,100,12/10/2016
+667,140,47%,60,63%,110,Weezing,Poison,,130,174,221,Tackle,12,Normal,0,1100,10,Dark Pulse,45,Dark,0,5,3500,33,12/10/2016
+265,6,85%,122,47%,47,Parasect,Bug,Grass,120,165,146,Bug Bite,5,Bug,1,450,7,Solar Beam,120,Grass,1,5,4900,100,12/10/2016
+647,43,78%,16,86%,107,Hitmonchan,Fighting,,100,193,212,Rock Smash,15,Fighting,1,1410,12,Thunder Punch,40,Electric,0,5,2400,33,12/10/2016
+462,74,72%,42,65%,78,Rapidash,Fire,,130,207,167,Ember,10,Fire,1,1050,10,Drill Run,50,Ground,0,25,3400,33,12/10/2016
+460,75,72%,126,37%,78,Rapidash,Fire,,130,207,167,Low Kick,5,Fighting,0,600,7,Heat Wave,80,Fire,1,5,3800,100,12/10/2016
+136,27,83%,67,58%,26,Raichu,Electric,,120,193,165,Thunder Shock,5,Electric,1,600,8,Thunder Punch,40,Electric,1,5,2400,33,12/10/2016
+741,6,93%,12,85%,122,Mr. Mime,Psychic,Fairy,80,192,233,Confusion,15,Psychic,1,1510,14,Psychic,55,Psychic,1,5,2800,50,12/10/2016
+749,168,56%,52,57%,123,Scyther,Bug,Flying,140,218,170,Steel Wing,15,Steel,0,1330,12,Night Slash,30,Dark,0,25,2700,25,12/10/2016
+730,172,56%,197,41%,121,Starmie,Water,Psychic,120,210,184,Quick Attack,10,Normal,0,1330,12,Hydro Pump,90,Water,1,5,3800,100,8/19/2016
+634,71,73%,96,46%,106,Hitmonlee,Fighting,,100,224,211,Low Kick,5,Fighting,1,600,7,Stomp,30,Normal,0,5,2100,25,8/19/2016
+611,49,78%,36,70%,101,Electrode,Electric,,120,173,179,Tackle,12,Normal,0,1100,10,Thunderbolt,55,Electric,1,5,2700,50,12/10/2016
+442,55,77%,3,91%,75,Graveler,Rock,Ground,110,164,196,Mud Slap,15,Ground,1,1350,12,Rock Slide,50,Rock,1,5,3200,33,12/10/2016
+224,166,51%,64,55%,40,Wigglytuff,Normal,Fairy,280,156,93,Feint Attack,12,Dark,0,1040,10,Dazzling Gleam,55,Fairy,1,5,4200,33,12/10/2016
+280,67,75%,25,75%,49,Venomoth,Bug,Poison,140,179,150,Confusion,15,Psychic,0,1510,14,Bug Buzz,75,Bug,1,5,4250,50,12/10/2016
+71,23,84%,100,48%,15,Beedrill,Bug,Poison,130,169,150,Bug Bite,5,Bug,1,450,7,X-Scissor,35,Bug,1,5,2100,33,12/10/2016
+485,12,87%,76,57%,82,Magneton,Electric,Steel,100,223,182,Thunder Shock,5,Electric,1,600,8,Discharge,35,Electric,1,5,2500,33,12/10/2016
+564,81,65%,141,44%,94,Gengar,Ghost,Poison,120,261,156,Sucker Punch,7,Dark,0,700,9,Dark Pulse,45,Dark,0,5,3500,33,12/10/2016
+737,188,55%,147,48%,121,Starmie,Water,Psychic,120,210,184,Tackle,12,Normal,0,1100,10,Power Gem,40,Rock,0,5,2900,33,12/10/2016
+844,178,53%,168,38%,141,Kabutops,Rock,Water,120,220,203,Fury Cutter,3,Bug,0,400,6,Ancient Power,35,Rock,1,5,3600,25,12/10/2016
+388,20,86%,66,44%,67,Machoke,Fighting,,160,177,130,Low Kick,5,Fighting,1,600,7,Cross Chop,60,Fighting,1,25,2000,100,12/10/2016
+138,37,79%,82,52%,26,Raichu,Electric,,120,193,165,Spark,7,Electric,1,700,8,Brick Break,30,Fighting,0,25,1600,33,12/10/2016
+645,71,73%,24,84%,107,Hitmonchan,Fighting,,100,193,212,Rock Smash,15,Fighting,1,1410,12,Fire Punch,40,Fire,0,5,2800,33,12/10/2016
+59,4,77%,71,56%,12,Butterfree,Bug,Flying,120,167,151,Bug Bite,5,Bug,1,450,7,Bug Buzz,75,Bug,1,5,4250,50,12/10/2016
+719,117,57%,26,78%,119,Seaking,Water,,160,175,154,Poison Jab,12,Poison,0,1050,10,Drill Run,50,Ground,0,25,3400,33,12/10/2016
+707,58,73%,98,43%,117,Seadra,Water,,110,187,182,Dragon Breath,6,Dragon,0,500,7,Dragon Pulse,65,Dragon,0,5,3600,50,12/10/2016
+233,46,76%,35,71%,42,Golbat,Poison,Flying,150,161,153,Wing Attack,9,Flying,1,750,7,Poison Fang,25,Poison,1,5,2400,20,12/10/2016
+234,46,76%,43,67%,42,Golbat,Poison,Flying,150,161,153,Wing Attack,9,Flying,1,750,7,Air Cutter,30,Flying,1,25,3300,25,12/10/2016
+235,46,76%,48,62%,42,Golbat,Poison,Flying,150,161,153,Wing Attack,9,Flying,1,750,7,Ominous Wind,30,Ghost,0,5,3100,25,12/10/2016
+387,24,84%,52,56%,67,Machoke,Fighting,,160,177,130,Low Kick,5,Fighting,1,600,7,Brick Break,30,Fighting,1,25,1600,33,12/10/2016
+435,64,73%,46,69%,75,Graveler,Rock,Ground,110,164,196,Rock Throw,12,Rock,1,1360,15,Stone Edge,80,Rock,1,50,3100,100,12/10/2016
+500,1,100%,22,81%,85,Dodrio,Normal,Flying,120,218,145,Feint Attack,12,Dark,0,1040,10,Drill Peck,40,Flying,1,5,2700,33,12/10/2016
+612,58,74%,53,62%,101,Electrode,Electric,,120,173,179,Tackle,12,Normal,0,1100,10,Hyper Beam,120,Normal,0,5,5000,100,12/10/2016
+768,102,66%,93,48%,126,Magmar,Fire,,130,206,169,Karate Chop,6,Fighting,0,800,8,Fire Punch,40,Fire,1,5,2800,33,12/10/2016
+74,30,81%,44,70%,15,Beedrill,Bug,Poison,130,169,150,Poison Jab,12,Poison,1,1050,10,X-Scissor,35,Bug,1,5,2100,33,12/10/2016
+607,61,73%,58,60%,101,Electrode,Electric,,120,173,179,Spark,7,Electric,1,700,8,Discharge,35,Electric,1,5,2500,33,12/10/2016
+628,91,67%,27,78%,105,Marowak,Ground,,120,144,200,Mud Slap,15,Ground,1,1350,12,Bone Club,25,Ground,1,5,1600,25,12/10/2016
+436,70,72%,6,88%,75,Graveler,Rock,Ground,110,164,196,Rock Throw,12,Rock,1,1360,15,Rock Slide,50,Rock,1,5,3200,33,12/10/2016
+746,187,52%,194,31%,123,Scyther,Bug,Flying,140,218,170,Fury Cutter,3,Bug,1,400,6,Night Slash,30,Dark,0,25,2700,25,12/10/2016
+646,87,71%,27,83%,107,Hitmonchan,Fighting,,100,193,212,Rock Smash,15,Fighting,1,1410,12,Ice Punch,45,Ice,0,5,3500,33,12/10/2016
+503,2,97%,8,91%,85,Dodrio,Normal,Flying,120,218,145,Steel Wing,15,Steel,0,1330,12,Drill Peck,40,Flying,1,5,2700,33,12/10/2016
+332,16,72%,105,49%,57,Primeape,Fighting,,130,207,144,Karate Chop,6,Fighting,1,800,8,Cross Chop,60,Fighting,1,25,2000,100,12/10/2016
+459,114,65%,106,45%,78,Rapidash,Fire,,130,207,167,Low Kick,5,Fighting,0,600,7,Drill Run,50,Ground,0,25,3400,33,12/10/2016
+483,30,80%,60,62%,82,Magneton,Electric,Steel,100,223,182,Spark,7,Electric,1,700,8,Magnet Bomb,30,Steel,1,5,2800,25,12/10/2016
+330,20,70%,79,59%,57,Primeape,Fighting,,130,207,144,Low Kick,5,Fighting,1,600,7,Low Sweep,30,Fighting,1,5,2250,25,12/10/2016
+91,184,53%,53,63%,18,Pidgeot,Normal,Flying,166,166,157,Steel Wing,15,Steel,0,1330,12,Aerial Ace,30,Flying,1,5,2900,25,12/10/2016
+275,114,69%,123,47%,49,Venomoth,Bug,Poison,140,179,150,Bug Bite,5,Bug,1,450,7,Poison Fang,25,Poison,1,5,2400,20,12/10/2016
+135,58,73%,89,48%,26,Raichu,Electric,,120,193,165,Thunder Shock,5,Electric,1,600,8,Brick Break,30,Fighting,0,25,1600,33,12/10/2016
+745,32,82%,42,70%,122,Mr. Mime,Psychic,Fairy,80,192,233,Zen Headbutt,12,Psychic,1,1050,9,Shadow Ball,45,Ghost,0,5,3080,33,12/10/2016
+440,84,69%,5,88%,75,Graveler,Rock,Ground,110,164,196,Mud Slap,15,Ground,1,1350,12,Dig,70,Ground,1,5,5800,33,12/10/2016
+437,85,69%,55,64%,75,Graveler,Rock,Ground,110,164,196,Mud Shot,6,Ground,1,550,7,Dig,70,Ground,1,5,5800,33,8/19/2016
+124,15,68%,80,41%,24,Arbok,Poison,,120,167,158,Bite,6,Dark,0,500,7,Sludge Wave,70,Poison,1,5,3400,100,12/10/2016
+268,16,73%,138,39%,47,Parasect,Bug,Grass,120,165,146,Fury Cutter,3,Bug,1,400,6,Solar Beam,120,Grass,1,5,4900,100,12/10/2016
+743,36,81%,33,74%,122,Mr. Mime,Psychic,Fairy,80,192,233,Zen Headbutt,12,Psychic,1,1050,9,Psybeam,40,Psychic,1,5,3800,25,12/10/2016
+717,141,52%,97,55%,119,Seaking,Water,,160,175,154,Peck,10,Flying,0,1150,10,Megahorn,80,Bug,0,5,3200,100,12/10/2016
+390,40,77%,48,58%,67,Machoke,Fighting,,160,177,130,Karate Chop,6,Fighting,1,800,8,Brick Break,30,Fighting,1,25,1600,33,12/10/2016
+391,40,77%,65,48%,67,Machoke,Fighting,,160,177,130,Karate Chop,6,Fighting,1,800,8,Cross Chop,60,Fighting,1,25,2000,100,12/10/2016
+873,1,100%,49,52%,148,Dragonair,Dragon,,122,163,138,Dragon Breath,6,Dragon,1,500,7,Dragon Pulse,65,Dragon,1,5,3600,50,12/10/2016
+125,19,67%,82,40%,24,Arbok,Poison,,120,167,158,Bite,6,Dark,0,500,7,Gunk Shot,65,Poison,1,5,3000,100,12/10/2016
+648,120,67%,73,65%,107,Hitmonchan,Fighting,,100,193,212,Bullet Punch,10,Steel,0,1200,10,Brick Break,30,Fighting,1,25,1600,33,12/10/2016
+633,100,63%,57,62%,105,Marowak,Ground,,120,144,200,Rock Smash,15,Fighting,0,1410,12,Earthquake,100,Ground,1,5,4200,100,12/10/2016
+11,3,95%,34,53%,2,Ivysaur,Grass,Poison,120,151,151,Vine Whip,7,Grass,1,650,7,Solar Beam,120,Grass,1,5,4900,100,12/10/2016
+629,101,62%,11,86%,105,Marowak,Ground,,120,144,200,Mud Slap,15,Ground,1,1350,12,Dig,70,Ground,1,5,5800,33,12/10/2016
+610,79,67%,46,65%,101,Electrode,Electric,,120,173,179,Tackle,12,Normal,0,1100,10,Discharge,35,Electric,1,5,2500,33,12/10/2016
+60,16,69%,93,43%,12,Butterfree,Bug,Flying,120,167,151,Bug Bite,5,Bug,1,450,7,Psychic,55,Psychic,0,5,2800,50,12/10/2016
+386,47,76%,61,51%,67,Machoke,Fighting,,160,177,130,Low Kick,5,Fighting,1,600,7,Submission,30,Fighting,1,5,2100,33,12/10/2016
+264,20,71%,123,46%,47,Parasect,Bug,Grass,120,165,146,Bug Bite,5,Bug,1,450,7,X-Scissor,35,Bug,1,5,2100,33,12/10/2016
+732,248,48%,108,53%,121,Starmie,Water,Psychic,120,210,184,Quick Attack,10,Normal,0,1330,12,Psybeam,40,Psychic,1,5,3800,25,8/19/2016
+61,18,69%,82,53%,12,Butterfree,Bug,Flying,120,167,151,Bug Bite,5,Bug,1,450,7,Signal Beam,45,Bug,1,5,3100,33,12/10/2016
+333,43,66%,65,66%,57,Primeape,Fighting,,130,207,144,Karate Chop,6,Fighting,1,800,8,Low Sweep,30,Fighting,1,5,2250,25,12/10/2016
+486,53,75%,72,58%,82,Magneton,Electric,Steel,100,223,182,Thunder Shock,5,Electric,1,600,8,Magnet Bomb,30,Steel,1,5,2800,25,12/10/2016
+718,151,50%,80,60%,119,Seaking,Water,,160,175,154,Poison Jab,12,Poison,0,1050,10,Icy Wind,25,Ice,0,5,3800,20,12/10/2016
+279,135,65%,58,63%,49,Venomoth,Bug,Poison,140,179,150,Confusion,15,Psychic,0,1510,14,Psychic,55,Psychic,0,5,2800,50,12/10/2016
+668,60,49%,5,88%,111,Rhyhorn,Ground,Rock,160,140,157,Mud Slap,15,Ground,1,1350,12,Bulldoze,35,Ground,1,5,3400,25,12/10/2016
+670,60,49%,8,85%,111,Rhyhorn,Ground,Rock,160,140,157,Mud Slap,15,Ground,1,1350,12,Stomp,30,Normal,0,5,2100,25,12/10/2016
+669,60,49%,16,78%,111,Rhyhorn,Ground,Rock,160,140,157,Mud Slap,15,Ground,1,1350,12,Horn Attack,25,Normal,0,5,2200,25,12/10/2016
+716,152,50%,37,72%,119,Seaking,Water,,160,175,154,Peck,10,Flying,0,1150,10,Drill Run,50,Ground,0,25,3400,33,12/10/2016
+92,193,50%,66,59%,18,Pidgeot,Normal,Flying,166,166,157,Steel Wing,15,Steel,0,1330,12,Air Cutter,30,Flying,1,25,3300,25,12/10/2016
+10,8,91%,37,50%,2,Ivysaur,Grass,Poison,120,151,151,Vine Whip,7,Grass,1,650,7,Sludge Bomb,55,Poison,1,5,2600,50,12/10/2016
+127,31,63%,51,57%,24,Arbok,Poison,,120,167,158,Acid,10,Poison,1,1050,10,Sludge Wave,70,Poison,1,5,3400,100,12/10/2016
+434,93,64%,12,87%,75,Graveler,Rock,Ground,110,164,196,Rock Throw,12,Rock,1,1360,15,Dig,70,Ground,1,5,5800,33,12/10/2016
+128,33,63%,54,55%,24,Arbok,Poison,,120,167,158,Acid,10,Poison,1,1050,10,Gunk Shot,65,Poison,1,5,3000,100,12/10/2016
+742,59,76%,29,76%,122,Mr. Mime,Psychic,Fairy,80,192,233,Confusion,15,Psychic,1,1510,14,Shadow Ball,45,Ghost,0,5,3080,33,12/10/2016
+731,255,46%,161,45%,121,Starmie,Water,Psychic,120,210,184,Quick Attack,10,Normal,0,1330,12,Power Gem,40,Rock,0,5,2900,33,8/19/2016
+8,12,89%,22,70%,2,Ivysaur,Grass,Poison,120,151,151,Razor Leaf,15,Grass,1,1450,12,Solar Beam,120,Grass,1,5,4900,100,12/10/2016
+631,108,58%,45,69%,105,Marowak,Ground,,120,144,200,Rock Smash,15,Fighting,0,1410,12,Bone Club,25,Ground,1,5,1600,25,12/10/2016
+73,87,69%,79,59%,15,Beedrill,Bug,Poison,130,169,150,Poison Jab,12,Poison,1,1050,10,Aerial Ace,30,Flying,0,5,2900,25,12/10/2016
+236,67,64%,52,58%,42,Golbat,Poison,Flying,150,161,153,Bite,6,Dark,0,500,7,Poison Fang,25,Poison,1,5,2400,20,12/10/2016
+101,13,74%,94,46%,20,Raticate,Normal,,110,161,144,Bite,6,Dark,0,500,7,Hyper Beam,120,Normal,1,5,5000,100,12/10/2016
+644,135,61%,88,60%,107,Hitmonchan,Fighting,,100,193,212,Bullet Punch,10,Steel,0,1200,10,Thunder Punch,40,Electric,0,5,2400,33,12/10/2016
+12,14,87%,41,43%,2,Ivysaur,Grass,Poison,120,151,151,Vine Whip,7,Grass,1,650,7,Power Whip,70,Grass,1,0,2800,100,12/10/2016
+389,58,70%,50,58%,67,Machoke,Fighting,,160,177,130,Karate Chop,6,Fighting,1,800,8,Submission,30,Fighting,1,5,2100,33,12/10/2016
+501,21,84%,29,76%,85,Dodrio,Normal,Flying,120,218,145,Feint Attack,12,Dark,0,1040,10,Aerial Ace,30,Flying,1,5,2900,25,12/10/2016
+7,15,86%,20,72%,2,Ivysaur,Grass,Poison,120,151,151,Razor Leaf,15,Grass,1,1450,12,Sludge Bomb,55,Poison,1,5,2600,50,12/10/2016
+504,23,83%,15,84%,85,Dodrio,Normal,Flying,120,218,145,Steel Wing,15,Steel,0,1330,12,Aerial Ace,30,Flying,1,5,2900,25,12/10/2016
+70,92,68%,117,40%,15,Beedrill,Bug,Poison,130,169,150,Bug Bite,5,Bug,1,450,7,Aerial Ace,30,Flying,0,5,2900,25,12/10/2016
+740,75,73%,24,80%,122,Mr. Mime,Psychic,Fairy,80,192,233,Confusion,15,Psychic,1,1510,14,Psybeam,40,Psychic,1,5,3800,25,12/10/2016
+62,43,63%,30,78%,12,Butterfree,Bug,Flying,120,167,151,Confusion,15,Psychic,0,1510,14,Bug Buzz,75,Bug,1,5,4250,50,12/10/2016
+872,8,89%,61,40%,148,Dragonair,Dragon,,122,163,138,Dragon Breath,6,Dragon,1,500,7,Aqua Tail,45,Water,0,5,2350,50,12/10/2016
+632,112,56%,25,79%,105,Marowak,Ground,,120,144,200,Rock Smash,15,Fighting,0,1410,12,Dig,70,Ground,1,5,5800,33,12/10/2016
+650,56,46%,51,49%,108,Lickitung,Normal,,180,108,137,Lick,5,Ghost,0,500,6,Hyper Beam,120,Normal,1,5,5000,100,12/10/2016
+307,31,63%,73,50%,53,Persian,Normal,,130,150,139,Scratch,6,Normal,1,500,7,Play Rough,55,Fairy,0,5,2900,50,12/10/2016
+45,35,61%,94,44%,8,Wartortle,Water,,118,126,155,Water Gun,6,Water,1,500,7,Hydro Pump,90,Water,1,5,3800,100,12/10/2016
+237,75,61%,54,56%,42,Golbat,Poison,Flying,150,161,153,Bite,6,Dark,0,500,7,Air Cutter,30,Flying,1,25,3300,25,12/10/2016
+238,75,61%,65,50%,42,Golbat,Poison,Flying,150,161,153,Bite,6,Dark,0,500,7,Ominous Wind,30,Ghost,0,5,3100,25,12/10/2016
+263,69,63%,136,40%,47,Parasect,Bug,Grass,120,165,146,Bug Bite,5,Bug,1,450,7,Cross Poison,25,Poison,0,25,1500,25,12/10/2016
+502,37,80%,31,75%,85,Dodrio,Normal,Flying,120,218,145,Feint Attack,12,Dark,0,1040,10,Air Cutter,30,Flying,1,25,3300,25,12/10/2016
+9,25,82%,27,61%,2,Ivysaur,Grass,Poison,120,151,151,Razor Leaf,15,Grass,1,1450,12,Power Whip,70,Grass,1,0,2800,100,12/10/2016
+642,143,57%,88,60%,107,Hitmonchan,Fighting,,100,193,212,Bullet Punch,10,Steel,0,1200,10,Fire Punch,40,Fire,0,5,2800,33,12/10/2016
+267,75,62%,146,36%,47,Parasect,Bug,Grass,120,165,146,Fury Cutter,3,Bug,1,400,6,X-Scissor,35,Bug,1,5,2100,33,12/10/2016
+245,10,64%,8,84%,44,Gloom,Grass,Poison,120,153,139,Razor Leaf,15,Grass,1,1450,12,Petal Blizzard,65,Grass,1,5,3200,50,12/10/2016
+246,10,64%,11,80%,44,Gloom,Grass,Poison,120,153,139,Razor Leaf,15,Grass,1,1450,12,Sludge Bomb,55,Poison,1,5,2600,50,12/10/2016
+278,155,57%,52,65%,49,Venomoth,Bug,Poison,140,179,150,Confusion,15,Psychic,0,1510,14,Poison Fang,25,Poison,1,5,2400,20,12/10/2016
+505,44,78%,24,79%,85,Dodrio,Normal,Flying,120,218,145,Steel Wing,15,Steel,0,1330,12,Air Cutter,30,Flying,1,25,3300,25,12/10/2016
+653,58,43%,29,66%,108,Lickitung,Normal,,180,108,137,Zen Headbutt,12,Psychic,0,1050,9,Hyper Beam,120,Normal,1,5,5000,100,12/10/2016
+643,147,56%,81,62%,107,Hitmonchan,Fighting,,100,193,212,Bullet Punch,10,Steel,0,1200,10,Ice Punch,45,Ice,0,5,3500,33,12/10/2016
+248,12,64%,18,73%,44,Gloom,Grass,Poison,120,153,139,Acid,10,Poison,1,1050,10,Petal Blizzard,65,Grass,1,5,3200,50,12/10/2016
+673,69,42%,20,74%,111,Rhyhorn,Ground,Rock,160,140,157,Rock Smash,15,Fighting,0,1410,12,Stomp,30,Normal,0,5,2100,25,12/10/2016
+249,14,63%,21,68%,44,Gloom,Grass,Poison,120,153,139,Acid,10,Poison,1,1050,10,Sludge Bomb,55,Poison,1,5,2600,50,12/10/2016
+331,102,56%,100,51%,57,Primeape,Fighting,,130,207,144,Low Kick,5,Fighting,1,600,7,Night Slash,30,Dark,0,25,2700,25,12/10/2016
+64,73,57%,35,74%,12,Butterfree,Bug,Flying,120,167,151,Confusion,15,Psychic,0,1510,14,Signal Beam,45,Bug,1,5,3100,33,12/10/2016
+871,32,81%,65,36%,148,Dragonair,Dragon,,122,163,138,Dragon Breath,6,Dragon,1,500,7,Wrap,25,Normal,0,5,4000,20,12/10/2016
+115,19,59%,3,89%,22,Fearow,Normal,Flying,130,182,135,Steel Wing,15,Steel,0,1330,12,Drill Run,50,Ground,0,25,3400,33,12/10/2016
+671,70,41%,13,80%,111,Rhyhorn,Ground,Rock,160,140,157,Rock Smash,15,Fighting,0,1410,12,Bulldoze,35,Ground,1,5,3400,25,12/10/2016
+100,29,65%,93,46%,20,Raticate,Normal,,110,161,144,Bite,6,Dark,0,500,7,Hyper Fang,35,Normal,1,5,2100,33,12/10/2016
+306,47,56%,72,51%,53,Persian,Normal,,130,150,139,Scratch,6,Normal,1,500,7,Power Gem,40,Rock,0,5,2900,33,12/10/2016
+305,47,56%,77,49%,53,Persian,Normal,,130,150,139,Scratch,6,Normal,1,500,7,Night Slash,30,Dark,0,25,2700,25,12/10/2016
+466,57,52%,78,48%,79,Slowpoke,Water,Psychic,180,109,109,Water Gun,6,Water,1,500,7,Psychic,55,Psychic,1,5,2800,50,12/10/2016
+30,12,68%,47,48%,5,Charmeleon,Fire,,116,158,129,Scratch,6,Normal,0,500,7,Flamethrower,55,Fire,1,5,2900,50,12/10/2016
+559,1,100%,39,64%,93,Haunter,Ghost,Poison,90,223,112,Shadow Claw,11,Ghost,1,950,8,Sludge Bomb,55,Poison,1,5,2600,50,12/10/2016
+48,53,55%,101,39%,8,Wartortle,Water,,118,126,155,Bite,6,Dark,0,500,7,Hydro Pump,90,Water,1,5,3800,100,12/10/2016
+112,21,57%,4,85%,22,Fearow,Normal,Flying,130,182,135,Peck,10,Flying,1,1150,10,Drill Run,50,Ground,0,25,3400,33,12/10/2016
+334,109,53%,95,53%,57,Primeape,Fighting,,130,207,144,Karate Chop,6,Fighting,1,800,8,Night Slash,30,Dark,0,25,2700,25,12/10/2016
+63,86,55%,59,66%,12,Butterfree,Bug,Flying,120,167,151,Confusion,15,Psychic,0,1510,14,Psychic,55,Psychic,0,5,2800,50,12/10/2016
+562,2,98%,71,46%,93,Haunter,Ghost,Poison,90,223,112,Lick,5,Ghost,1,500,6,Sludge Bomb,55,Poison,1,5,2600,50,12/10/2016
+123,68,52%,67,47%,24,Arbok,Poison,,120,167,158,Bite,6,Dark,0,500,7,Dark Pulse,45,Dark,0,5,3500,33,12/10/2016
+368,2,100%,31,63%,64,Kadabra,Psychic,,80,232,138,Psycho Cut,7,Psychic,1,570,7,Psybeam,40,Psychic,1,5,3800,25,12/10/2016
+369,2,100%,32,62%,64,Kadabra,Psychic,,80,232,138,Psycho Cut,7,Psychic,1,570,7,Dazzling Gleam,55,Fairy,0,5,4200,33,12/10/2016
+370,2,100%,40,58%,64,Kadabra,Psychic,,80,232,138,Psycho Cut,7,Psychic,1,570,7,Shadow Ball,45,Ghost,0,5,3080,33,12/10/2016
+126,71,52%,42,63%,24,Arbok,Poison,,120,167,158,Acid,10,Poison,1,1050,10,Dark Pulse,45,Dark,0,5,3500,33,12/10/2016
+114,25,55%,2,90%,22,Fearow,Normal,Flying,130,182,135,Steel Wing,15,Steel,0,1330,12,Aerial Ace,30,Flying,1,5,2900,25,12/10/2016
+815,37,60%,9,79%,137,Porygon,Normal,,130,153,139,Tackle,12,Normal,1,1100,10,Signal Beam,45,Bug,0,5,3100,33,12/10/2016
+164,35,61%,71,51%,30,Nidorina,Poison,,140,117,126,Poison Sting,6,Poison,1,575,8,Sludge Bomb,55,Poison,1,5,2600,50,12/10/2016
+672,71,38%,33,66%,111,Rhyhorn,Ground,Rock,160,140,157,Rock Smash,15,Fighting,0,1410,12,Horn Attack,25,Normal,0,5,2200,25,12/10/2016
+310,61,53%,44,64%,53,Persian,Normal,,130,150,139,Feint Attack,12,Dark,0,1040,10,Play Rough,55,Fairy,0,5,2900,50,12/10/2016
+111,29,54%,7,82%,22,Fearow,Normal,Flying,130,182,135,Peck,10,Flying,1,1150,10,Aerial Ace,30,Flying,1,5,2900,25,12/10/2016
+816,42,59%,17,73%,137,Porygon,Normal,,130,153,139,Tackle,12,Normal,1,1100,10,Discharge,35,Electric,0,5,2500,33,12/10/2016
+27,15,63%,23,68%,5,Charmeleon,Fire,,116,158,129,Ember,10,Fire,1,1050,10,Flamethrower,55,Fire,1,5,2900,50,12/10/2016
+44,69,52%,87,46%,8,Wartortle,Water,,118,126,155,Water Gun,6,Water,1,500,7,Ice Beam,65,Ice,0,5,3650,50,12/10/2016
+814,43,58%,14,75%,137,Porygon,Normal,,130,153,139,Tackle,12,Normal,1,1100,10,Psybeam,40,Psychic,0,5,3800,25,12/10/2016
+654,62,38%,27,67%,108,Lickitung,Normal,,180,108,137,Zen Headbutt,12,Psychic,0,1050,9,Stomp,30,Normal,1,5,2100,25,12/10/2016
+715,169,38%,106,52%,119,Seaking,Water,,160,175,154,Peck,10,Flying,0,1150,10,Icy Wind,25,Ice,0,5,3800,20,12/10/2016
+161,42,59%,90,42%,30,Nidorina,Poison,,140,117,126,Bite,6,Dark,0,500,7,Sludge Bomb,55,Poison,1,5,2600,50,12/10/2016
+104,54,59%,57,58%,20,Raticate,Normal,,110,161,144,Quick Attack,10,Normal,1,1330,12,Hyper Beam,120,Normal,1,5,5000,100,12/10/2016
+266,122,53%,153,30%,47,Parasect,Bug,Grass,120,165,146,Fury Cutter,3,Bug,1,400,6,Cross Poison,25,Poison,0,25,1500,25,12/10/2016
+457,12,78%,43,58%,77,Ponyta,Fire,,100,170,132,Ember,10,Fire,1,1050,10,Fire Blast,100,Fire,1,5,4100,100,12/10/2016
+651,64,37%,56,44%,108,Lickitung,Normal,,180,108,137,Lick,5,Ghost,0,500,6,Stomp,30,Normal,1,5,2100,25,12/10/2016
+247,24,55%,26,65%,44,Gloom,Grass,Poison,120,153,139,Razor Leaf,15,Grass,1,1450,12,Moonblast,85,Fairy,0,5,4100,100,12/10/2016
+655,65,37%,45,51%,108,Lickitung,Normal,,180,108,137,Zen Headbutt,12,Psychic,0,1050,9,Power Whip,70,Grass,0,0,2800,100,12/10/2016
+557,3,89%,37,66%,93,Haunter,Ghost,Poison,90,223,112,Shadow Claw,11,Ghost,1,950,8,Shadow Ball,45,Ghost,1,5,3080,33,12/10/2016
+116,42,51%,9,79%,22,Fearow,Normal,Flying,130,182,135,Steel Wing,15,Steel,0,1330,12,Twister,25,Dragon,0,5,2700,20,12/10/2016
+465,73,46%,76,49%,79,Slowpoke,Water,Psychic,180,109,109,Water Gun,6,Water,1,500,7,Psyshock,40,Psychic,1,5,2700,33,12/10/2016
+250,30,54%,37,54%,44,Gloom,Grass,Poison,120,153,139,Acid,10,Poison,1,1050,10,Moonblast,85,Fairy,0,5,4100,100,12/10/2016
+28,17,60%,44,49%,5,Charmeleon,Fire,,116,158,129,Scratch,6,Normal,0,500,7,Fire Punch,40,Fire,1,5,2800,33,12/10/2016
+405,3,83%,6,72%,70,Weepinbell,Grass,Poison,130,172,95,Razor Leaf,15,Grass,1,1450,12,Sludge Bomb,55,Poison,1,5,2600,50,12/10/2016
+652,66,36%,66,33%,108,Lickitung,Normal,,180,108,137,Lick,5,Ghost,0,500,6,Power Whip,70,Grass,0,0,2800,100,12/10/2016
+29,18,60%,40,52%,5,Charmeleon,Fire,,116,158,129,Scratch,6,Normal,0,500,7,Flame Burst,30,Fire,1,5,2100,25,12/10/2016
+454,19,75%,50,56%,77,Ponyta,Fire,,100,170,132,Tackle,12,Normal,0,1100,10,Fire Blast,100,Fire,1,5,4100,100,12/10/2016
+818,48,54%,21,71%,137,Porygon,Normal,,130,153,139,Zen Headbutt,12,Psychic,0,1050,9,Signal Beam,45,Bug,0,5,3100,33,12/10/2016
+529,22,70%,33,62%,88,Grimer,Poison,,160,135,90,Poison Jab,12,Poison,1,1050,10,Sludge Bomb,55,Poison,1,5,2600,50,12/10/2016
+469,74,45%,16,75%,79,Slowpoke,Water,Psychic,180,109,109,Confusion,15,Psychic,1,1510,14,Psychic,55,Psychic,1,5,2800,50,12/10/2016
+560,7,87%,73,46%,93,Haunter,Ghost,Poison,90,223,112,Lick,5,Ghost,1,500,6,Shadow Ball,45,Ghost,1,5,3080,33,12/10/2016
+408,4,81%,15,61%,70,Weepinbell,Grass,Poison,130,172,95,Acid,10,Poison,1,1050,10,Sludge Bomb,55,Poison,1,5,2600,50,12/10/2016
+182,15,79%,57,46%,33,Nidorino,Poison,,122,137,112,Poison Sting,6,Poison,1,575,8,Sludge Bomb,55,Poison,1,5,2600,50,12/10/2016
+43,82,47%,84,48%,8,Wartortle,Water,,118,126,155,Water Gun,6,Water,1,500,7,Aqua Jet,25,Water,1,5,2350,20,12/10/2016
+113,43,49%,14,72%,22,Fearow,Normal,Flying,130,182,135,Peck,10,Flying,1,1150,10,Twister,25,Dragon,0,5,2700,20,12/10/2016
+26,20,57%,25,68%,5,Charmeleon,Fire,,116,158,129,Ember,10,Fire,1,1050,10,Flame Burst,30,Fire,1,5,2100,25,12/10/2016
+103,73,54%,53,59%,20,Raticate,Normal,,110,161,144,Quick Attack,10,Normal,1,1330,12,Hyper Fang,35,Normal,1,5,2100,33,12/10/2016
+353,24,63%,1,100%,61,Poliwhirl,Water,,130,130,130,Bubble,25,Water,1,2300,25,Scald,55,Water,1,5,4000,33,12/10/2016
+373,8,87%,8,80%,64,Kadabra,Psychic,,80,232,138,Confusion,15,Psychic,1,1510,14,Shadow Ball,45,Ghost,0,5,3080,33,12/10/2016
+819,54,53%,35,65%,137,Porygon,Normal,,130,153,139,Zen Headbutt,12,Psychic,0,1050,9,Discharge,35,Electric,0,5,2500,33,12/10/2016
+47,85,47%,100,41%,8,Wartortle,Water,,118,126,155,Bite,6,Dark,0,500,7,Ice Beam,65,Ice,0,5,3650,50,12/10/2016
+25,22,57%,26,66%,5,Charmeleon,Fire,,116,158,129,Ember,10,Fire,1,1050,10,Fire Punch,40,Fire,1,5,2800,33,12/10/2016
+404,5,79%,16,60%,70,Weepinbell,Grass,Poison,130,172,95,Razor Leaf,15,Grass,1,1450,12,Power Whip,70,Grass,1,0,2800,100,12/10/2016
+309,82,47%,49,62%,53,Persian,Normal,,130,150,139,Feint Attack,12,Dark,0,1040,10,Power Gem,40,Rock,0,5,2900,33,12/10/2016
+179,16,77%,30,59%,33,Nidorino,Poison,,122,137,112,Poison Jab,12,Poison,1,1050,10,Sludge Bomb,55,Poison,1,5,2600,50,12/10/2016
+406,6,78%,4,73%,70,Weepinbell,Grass,Poison,130,172,95,Razor Leaf,15,Grass,1,1450,12,Seed Bomb,40,Grass,1,5,2400,33,12/10/2016
+407,7,78%,18,56%,70,Weepinbell,Grass,Poison,130,172,95,Acid,10,Poison,1,1050,10,Power Whip,70,Grass,1,0,2800,100,12/10/2016
+409,8,77%,13,64%,70,Weepinbell,Grass,Poison,130,172,95,Acid,10,Poison,1,1050,10,Seed Bomb,40,Grass,1,5,2400,33,12/10/2016
+371,9,83%,4,84%,64,Kadabra,Psychic,,80,232,138,Confusion,15,Psychic,1,1510,14,Psybeam,40,Psychic,1,5,3800,25,12/10/2016
+293,2,99%,87,43%,51,Dugtrio,Ground,,70,167,147,Mud Shot,6,Ground,1,550,7,Earthquake,100,Ground,1,5,4200,100,8/19/2016
+558,8,81%,51,59%,93,Haunter,Ghost,Poison,90,223,112,Shadow Claw,11,Ghost,1,950,8,Dark Pulse,45,Dark,0,5,3500,33,12/10/2016
+372,10,82%,6,83%,64,Kadabra,Psychic,,80,232,138,Confusion,15,Psychic,1,1510,14,Dazzling Gleam,55,Fairy,0,5,4200,33,12/10/2016
+356,35,59%,38,54%,61,Poliwhirl,Water,,130,130,130,Mud Shot,6,Ground,0,550,7,Scald,55,Water,1,5,4000,33,12/10/2016
+464,85,41%,73,51%,79,Slowpoke,Water,Psychic,180,109,109,Water Gun,6,Water,1,500,7,Water Pulse,35,Water,1,5,3300,25,12/10/2016
+812,60,50%,17,73%,137,Porygon,Normal,,130,153,139,Quick Attack,10,Normal,1,1330,12,Signal Beam,45,Bug,0,5,3100,33,8/19/2016
+523,32,64%,47,56%,88,Grimer,Poison,,160,135,90,Acid,10,Poison,1,1050,10,Sludge Bomb,55,Poison,1,5,2600,50,8/19/2016
+468,86,41%,16,75%,79,Slowpoke,Water,Psychic,180,109,109,Confusion,15,Psychic,1,1510,14,Psyshock,40,Psychic,1,5,2700,33,12/10/2016
+817,66,49%,30,67%,137,Porygon,Normal,,130,153,139,Zen Headbutt,12,Psychic,0,1050,9,Psybeam,40,Psychic,0,5,3800,25,12/10/2016
+308,89,43%,57,58%,53,Persian,Normal,,130,150,139,Feint Attack,12,Dark,0,1040,10,Night Slash,30,Dark,0,25,2700,25,12/10/2016
+813,68,48%,32,67%,137,Porygon,Normal,,130,153,139,Quick Attack,10,Normal,1,1330,12,Discharge,35,Electric,0,5,2500,33,8/19/2016
+526,38,62%,26,64%,88,Grimer,Poison,,160,135,90,Mud Slap,15,Ground,0,1350,12,Sludge Bomb,55,Poison,1,5,2600,50,12/10/2016
+296,3,92%,36,64%,51,Dugtrio,Ground,,70,167,147,Mud Slap,15,Ground,1,1350,12,Earthquake,100,Ground,1,5,4200,100,12/10/2016
+99,96,48%,90,47%,20,Raticate,Normal,,110,161,144,Bite,6,Dark,0,500,7,Dig,70,Ground,0,5,5800,33,12/10/2016
+579,66,56%,73,43%,96,Drowzee,Psychic,,120,89,158,Pound,7,Normal,0,540,7,Psychic,55,Psychic,1,5,2800,50,12/10/2016
+191,49,65%,93,40%,35,Clefairy,Fairy,,140,107,116,Pound,7,Normal,0,540,7,Moonblast,85,Fairy,1,5,4100,100,12/10/2016
+355,48,54%,2,85%,61,Poliwhirl,Water,,130,130,130,Bubble,25,Water,1,2300,25,Bubble Beam,30,Water,1,5,2900,25,12/10/2016
+354,48,54%,6,78%,61,Poliwhirl,Water,,130,130,130,Bubble,25,Water,1,2300,25,Mud Bomb,30,Ground,0,5,2600,25,12/10/2016
+46,100,40%,95,44%,8,Wartortle,Water,,118,126,155,Bite,6,Dark,0,500,7,Aqua Jet,25,Water,1,5,2350,20,12/10/2016
+614,54,62%,7,89%,102,Exeggcute,Grass,Psychic,120,107,140,Confusion,15,Psychic,1,1510,14,Psychic,55,Psychic,1,5,2800,50,12/10/2016
+190,59,63%,95,39%,35,Clefairy,Fairy,,140,107,116,Pound,7,Normal,0,540,7,Body Slam,40,Normal,0,5,1560,50,12/10/2016
+295,6,86%,101,36%,51,Dugtrio,Ground,,70,167,147,Mud Shot,6,Ground,1,550,7,Stone Edge,80,Rock,0,50,3100,100,8/19/2016
+561,16,71%,78,40%,93,Haunter,Ghost,Poison,90,223,112,Lick,5,Ghost,1,500,6,Dark Pulse,45,Dark,0,5,3500,33,12/10/2016
+820,8,87%,52,58%,138,Omanyte,Rock,Water,70,155,174,Water Gun,6,Water,1,500,7,Ancient Power,35,Rock,1,5,3600,25,12/10/2016
+822,8,87%,53,58%,138,Omanyte,Rock,Water,70,155,174,Water Gun,6,Water,1,500,7,Rock Tomb,30,Rock,1,25,3400,25,12/10/2016
+821,8,87%,61,54%,138,Omanyte,Rock,Water,70,155,174,Water Gun,6,Water,1,500,7,Brine,25,Water,1,5,2400,25,12/10/2016
+613,57,59%,6,91%,102,Exeggcute,Grass,Psychic,120,107,140,Confusion,15,Psychic,1,1510,14,Seed Bomb,40,Grass,1,5,2400,33,12/10/2016
+527,51,56%,42,58%,88,Grimer,Poison,,160,135,90,Poison Jab,12,Poison,1,1050,10,Sludge,30,Poison,1,5,2600,25,12/10/2016
+102,111,44%,52,59%,20,Raticate,Normal,,110,161,144,Quick Attack,10,Normal,1,1330,12,Dig,70,Ground,0,5,5800,33,12/10/2016
+528,53,56%,58,52%,88,Grimer,Poison,,160,135,90,Poison Jab,12,Poison,1,1050,10,Mud Bomb,30,Ground,0,5,2600,25,12/10/2016
+811,74,43%,26,69%,137,Porygon,Normal,,130,153,139,Quick Attack,10,Normal,1,1330,12,Psybeam,40,Psychic,0,5,3800,25,8/19/2016
+298,7,83%,39,63%,51,Dugtrio,Ground,,70,167,147,Mud Slap,15,Ground,1,1350,12,Stone Edge,80,Rock,0,50,3100,100,12/10/2016
+582,78,52%,16,70%,96,Drowzee,Psychic,,120,89,158,Confusion,15,Psychic,1,1510,14,Psychic,55,Psychic,1,5,2800,50,12/10/2016
+467,97,35%,27,71%,79,Slowpoke,Water,Psychic,180,109,109,Confusion,15,Psychic,1,1510,14,Water Pulse,35,Water,1,5,3300,25,12/10/2016
+290,8,82%,93,41%,51,Dugtrio,Ground,,70,167,147,Sucker Punch,7,Dark,0,700,9,Earthquake,100,Ground,1,5,4200,100,12/10/2016
+162,95,43%,80,48%,30,Nidorina,Poison,,140,117,126,Poison Sting,6,Poison,1,575,8,Poison Fang,25,Poison,1,5,2400,20,12/10/2016
+163,96,43%,68,52%,30,Nidorina,Poison,,140,117,126,Poison Sting,6,Poison,1,575,8,Dig,70,Ground,0,5,5800,33,12/10/2016
+145,28,76%,37,59%,27,Sandshrew,Ground,,100,126,145,Mud Shot,6,Ground,1,550,7,Rock Slide,50,Rock,0,5,3200,33,12/10/2016
+178,33,61%,35,57%,33,Nidorino,Poison,,122,137,112,Poison Jab,12,Poison,1,1050,10,Dig,70,Ground,0,5,5800,33,12/10/2016
+177,33,61%,52,49%,33,Nidorino,Poison,,122,137,112,Poison Jab,12,Poison,1,1050,10,Horn Attack,25,Normal,0,5,2200,25,12/10/2016
+578,80,50%,72,44%,96,Drowzee,Psychic,,120,89,158,Pound,7,Normal,0,540,7,Psyshock,40,Psychic,1,5,2700,33,12/10/2016
+456,41,57%,36,61%,77,Ponyta,Fire,,100,170,132,Ember,10,Fire,1,1050,10,Flame Wheel,40,Fire,1,5,4600,25,12/10/2016
+455,41,57%,53,55%,77,Ponyta,Fire,,100,170,132,Ember,10,Fire,1,1050,10,Flame Charge,25,Fire,1,5,3100,20,12/10/2016
+572,62,54%,20,72%,95,Onix,Rock,Ground,70,85,288,Rock Throw,12,Rock,1,1360,15,Stone Edge,80,Rock,1,50,3100,100,12/10/2016
+575,63,54%,40,58%,95,Onix,Rock,Ground,70,85,288,Tackle,12,Normal,0,1100,10,Stone Edge,80,Rock,1,50,3100,100,12/10/2016
+358,60,49%,55,44%,61,Poliwhirl,Water,,130,130,130,Mud Shot,6,Ground,0,550,7,Bubble Beam,30,Water,1,5,2900,25,12/10/2016
+144,32,75%,23,71%,27,Sandshrew,Ground,,100,126,145,Mud Shot,6,Ground,1,550,7,Dig,70,Ground,1,5,5800,33,12/10/2016
+428,24,83%,3,91%,74,Geodude,Rock,Ground,80,132,163,Rock Throw,12,Rock,1,1360,15,Rock Slide,50,Rock,1,5,3200,33,12/10/2016
+571,66,53%,4,91%,95,Onix,Rock,Ground,70,85,288,Rock Throw,12,Rock,1,1360,15,Rock Slide,50,Rock,1,5,3200,33,12/10/2016
+159,101,41%,89,42%,30,Nidorina,Poison,,140,117,126,Bite,6,Dark,0,500,7,Poison Fang,25,Poison,1,5,2400,20,12/10/2016
+511,106,50%,104,42%,86,Seel,Water,,130,85,128,Water Gun,6,Water,1,500,7,Aqua Tail,45,Water,1,5,2350,50,8/19/2016
+141,37,73%,27,67%,27,Sandshrew,Ground,,100,126,145,Scratch,6,Normal,0,500,7,Dig,70,Ground,1,5,5800,33,12/10/2016
+382,13,86%,53,38%,66,Machop,Fighting,,140,137,88,Low Kick,5,Fighting,1,600,7,Cross Chop,60,Fighting,1,25,2000,100,12/10/2016
+657,25,80%,30,66%,109,Koffing,Poison,,80,119,164,Acid,10,Poison,1,1050,10,Sludge Bomb,55,Poison,1,5,2600,50,8/19/2016
+521,77,51%,57,53%,88,Grimer,Poison,,160,135,90,Acid,10,Poison,1,1050,10,Sludge,30,Poison,1,5,2600,25,8/19/2016
+142,39,72%,47,54%,27,Sandshrew,Ground,,100,126,145,Scratch,6,Normal,0,500,7,Rock Slide,50,Rock,0,5,3200,33,12/10/2016
+431,28,80%,17,77%,74,Geodude,Rock,Ground,80,132,163,Tackle,12,Normal,0,1100,10,Rock Slide,50,Rock,1,5,3200,33,12/10/2016
+574,70,52%,16,77%,95,Onix,Rock,Ground,70,85,288,Tackle,12,Normal,0,1100,10,Rock Slide,50,Rock,1,5,3200,33,12/10/2016
+381,15,84%,45,49%,66,Machop,Fighting,,140,137,88,Low Kick,5,Fighting,1,600,7,Brick Break,30,Fighting,1,25,1600,33,12/10/2016
+581,87,47%,16,70%,96,Drowzee,Psychic,,120,89,158,Confusion,15,Psychic,1,1510,14,Psyshock,40,Psychic,1,5,2700,33,12/10/2016
+194,82,54%,59,49%,35,Clefairy,Fairy,,140,107,116,Zen Headbutt,12,Psychic,0,1050,9,Moonblast,85,Fairy,1,5,4100,100,12/10/2016
+146,44,70%,55,47%,27,Sandshrew,Ground,,100,126,145,Mud Shot,6,Ground,1,550,7,Rock Tomb,30,Rock,0,25,3400,25,12/10/2016
+160,105,39%,87,44%,30,Nidorina,Poison,,140,117,126,Bite,6,Dark,0,500,7,Dig,70,Ground,0,5,5800,33,12/10/2016
+193,85,54%,64,48%,35,Clefairy,Fairy,,140,107,116,Zen Headbutt,12,Psychic,0,1050,9,Body Slam,40,Normal,0,5,1560,50,12/10/2016
+357,68,45%,64,39%,61,Poliwhirl,Water,,130,130,130,Mud Shot,6,Ground,0,550,7,Mud Bomb,30,Ground,0,5,2600,25,12/10/2016
+660,32,77%,32,64%,109,Koffing,Poison,,80,119,164,Tackle,12,Normal,0,1100,10,Sludge Bomb,55,Poison,1,5,2600,50,12/10/2016
+524,93,49%,44,57%,88,Grimer,Poison,,160,135,90,Mud Slap,15,Ground,0,1350,12,Sludge,30,Poison,1,5,2600,25,12/10/2016
+340,10,81%,82,42%,58,Growlithe,Fire,,110,136,96,Bite,6,Dark,0,500,7,Flamethrower,55,Fire,1,5,2900,50,12/10/2016
+801,44,59%,44,57%,133,Eevee,Normal,,110,104,121,Tackle,12,Normal,1,1100,10,Body Slam,40,Normal,1,5,1560,50,12/10/2016
+181,50,55%,55,47%,33,Nidorino,Poison,,122,137,112,Poison Sting,6,Poison,1,575,8,Dig,70,Ground,0,5,5800,33,12/10/2016
+180,50,55%,79,36%,33,Nidorino,Poison,,122,137,112,Poison Sting,6,Poison,1,575,8,Horn Attack,25,Normal,0,5,2200,25,12/10/2016
+453,60,52%,38,60%,77,Ponyta,Fire,,100,170,132,Tackle,12,Normal,0,1100,10,Flame Wheel,40,Fire,1,5,4600,25,12/10/2016
+452,62,51%,55,54%,77,Ponyta,Fire,,100,170,132,Tackle,12,Normal,0,1100,10,Flame Charge,25,Fire,1,5,3100,20,12/10/2016
+297,12,73%,29,67%,51,Dugtrio,Ground,,70,167,147,Mud Slap,15,Ground,1,1350,12,Mud Bomb,30,Ground,1,5,2600,25,12/10/2016
+294,13,73%,82,45%,51,Dugtrio,Ground,,70,167,147,Mud Shot,6,Ground,1,550,7,Mud Bomb,30,Ground,1,5,2600,25,8/19/2016
+292,17,72%,105,34%,51,Dugtrio,Ground,,70,167,147,Sucker Punch,7,Dark,0,700,9,Stone Edge,80,Rock,0,50,3100,100,12/10/2016
+82,35,61%,43,56%,17,Pidgeotto,Normal,Flying,126,117,108,Wing Attack,9,Flying,1,750,7,Aerial Ace,30,Flying,1,5,2900,25,12/10/2016
+83,35,61%,46,55%,17,Pidgeotto,Normal,Flying,126,117,108,Wing Attack,9,Flying,1,750,7,Air Cutter,30,Flying,1,25,3300,25,12/10/2016
+81,35,61%,51,51%,17,Pidgeotto,Normal,Flying,126,117,108,Wing Attack,9,Flying,1,750,7,Twister,25,Dragon,0,5,2700,20,12/10/2016
+622,58,49%,13,71%,104,Cubone,Ground,,100,90,165,Mud Slap,15,Ground,1,1350,12,Bone Club,25,Ground,1,5,1600,25,12/10/2016
+384,18,78%,42,51%,66,Machop,Fighting,,140,137,88,Karate Chop,6,Fighting,1,800,8,Brick Break,30,Fighting,1,25,1600,33,12/10/2016
+385,18,78%,52,41%,66,Machop,Fighting,,140,137,88,Karate Chop,6,Fighting,1,800,8,Cross Chop,60,Fighting,1,25,2000,100,12/10/2016
+430,43,73%,6,90%,74,Geodude,Rock,Ground,80,132,163,Rock Throw,12,Rock,1,1360,15,Dig,70,Ground,1,5,5800,33,12/10/2016
+490,31,61%,23,63%,83,Farfetch'd,Normal,Flying,104,124,118,Cut,12,Normal,1,1130,10,Leaf Blade,55,Grass,0,25,2800,50,12/10/2016
+522,98,46%,71,47%,88,Grimer,Poison,,160,135,90,Acid,10,Poison,1,1050,10,Mud Bomb,30,Ground,0,5,2600,25,8/19/2016
+337,16,76%,34,60%,58,Growlithe,Fire,,110,136,96,Ember,10,Fire,1,1050,10,Flamethrower,55,Fire,1,5,2900,50,12/10/2016
+339,16,76%,92,36%,58,Growlithe,Fire,,110,136,96,Bite,6,Dark,0,500,7,Body Slam,40,Normal,0,5,1560,50,12/10/2016
+433,49,72%,12,81%,74,Geodude,Rock,Ground,80,132,163,Tackle,12,Normal,0,1100,10,Dig,70,Ground,1,5,5800,33,12/10/2016
+240,6,90%,11,67%,43,Oddish,Grass,Poison,90,131,116,Razor Leaf,15,Grass,1,1450,12,Sludge Bomb,55,Poison,1,5,2600,50,12/10/2016
+380,23,76%,43,50%,66,Machop,Fighting,,140,137,88,Low Kick,5,Fighting,1,600,7,Low Sweep,30,Fighting,1,5,2250,25,12/10/2016
+591,1,100%,1,100%,98,Krabby,Water,,60,181,156,Bubble,25,Water,1,2300,25,Water Pulse,35,Water,1,5,3300,25,12/10/2016
+590,1,100%,2,95%,98,Krabby,Water,,60,181,156,Bubble,25,Water,1,2300,25,Bubble Beam,30,Water,1,5,2900,25,12/10/2016
+589,1,100%,3,91%,98,Krabby,Water,,60,181,156,Bubble,25,Water,1,2300,25,Vice Grip,25,Normal,0,5,2100,20,12/10/2016
+824,42,69%,79,48%,138,Omanyte,Rock,Water,70,155,174,Mud Shot,6,Ground,0,550,7,Brine,25,Water,1,5,2400,25,12/10/2016
+189,96,49%,97,38%,35,Clefairy,Fairy,,140,107,116,Pound,7,Normal,0,540,7,Disarming Voice,25,Fairy,1,5,3900,20,12/10/2016
+243,9,88%,23,57%,43,Oddish,Grass,Poison,90,131,116,Acid,10,Poison,1,1050,10,Sludge Bomb,55,Poison,1,5,2600,50,12/10/2016
+1,5,94%,48,51%,1,Bulbasaur,Grass,Poison,90,118,118,Vine Whip,7,Grass,1,650,7,Sludge Bomb,55,Poison,1,5,2600,50,12/10/2016
+615,74,47%,29,73%,102,Exeggcute,Grass,Psychic,120,107,140,Confusion,15,Psychic,1,1510,14,Ancient Power,35,Rock,0,5,3600,25,12/10/2016
+577,91,41%,66,45%,96,Drowzee,Psychic,,120,89,158,Pound,7,Normal,0,540,7,Psybeam,40,Psychic,1,5,3800,25,12/10/2016
+823,49,67%,67,53%,138,Omanyte,Rock,Water,70,155,174,Mud Shot,6,Ground,0,550,7,Ancient Power,35,Rock,1,5,3600,25,12/10/2016
+143,51,62%,57,46%,27,Sandshrew,Ground,,100,126,145,Scratch,6,Normal,0,500,7,Rock Tomb,30,Rock,0,25,3400,25,12/10/2016
+525,106,44%,62,51%,88,Grimer,Poison,,160,135,90,Mud Slap,15,Ground,0,1350,12,Mud Bomb,30,Ground,0,5,2600,25,12/10/2016
+623,66,46%,8,79%,104,Cubone,Ground,,100,90,165,Mud Slap,15,Ground,1,1350,12,Dig,70,Ground,1,5,5800,33,12/10/2016
+573,73,44%,28,67%,95,Onix,Rock,Ground,70,85,288,Rock Throw,12,Rock,1,1360,15,Iron Head,30,Steel,0,5,2000,33,12/10/2016
+239,13,85%,10,69%,43,Oddish,Grass,Poison,90,131,116,Razor Leaf,15,Grass,1,1450,12,Seed Bomb,40,Grass,1,5,2400,33,12/10/2016
+383,37,72%,33,56%,66,Machop,Fighting,,140,137,88,Karate Chop,6,Fighting,1,800,8,Low Sweep,30,Fighting,1,5,2250,25,12/10/2016
+580,92,40%,23,65%,96,Drowzee,Psychic,,120,89,158,Confusion,15,Psychic,1,1510,14,Psybeam,40,Psychic,1,5,3800,25,12/10/2016
+291,26,65%,81,45%,51,Dugtrio,Ground,,70,167,147,Sucker Punch,7,Dark,0,700,9,Mud Bomb,30,Ground,1,5,2600,25,12/10/2016
+312,14,68%,88,42%,54,Psyduck,Water,,100,122,96,Water Gun,6,Water,1,500,7,Aqua Tail,45,Water,1,5,2350,50,12/10/2016
+336,24,71%,65,50%,58,Growlithe,Fire,,110,136,96,Ember,10,Fire,1,1050,10,Body Slam,40,Normal,0,5,1560,50,12/10/2016
+509,143,41%,92,46%,86,Seel,Water,,130,85,128,Water Gun,6,Water,1,500,7,Aqua Jet,25,Water,1,5,2350,20,8/19/2016
+510,143,41%,130,36%,86,Seel,Water,,130,85,128,Water Gun,6,Water,1,500,7,Icy Wind,25,Ice,0,5,3800,20,8/19/2016
+242,14,83%,18,60%,43,Oddish,Grass,Poison,90,131,116,Acid,10,Poison,1,1050,10,Seed Bomb,40,Grass,1,5,2400,33,12/10/2016
+3,11,89%,51,44%,1,Bulbasaur,Grass,Poison,90,118,118,Vine Whip,7,Grass,1,650,7,Power Whip,70,Grass,1,0,2800,100,12/10/2016
+514,146,41%,135,35%,86,Seel,Water,,130,85,128,Lick,5,Ghost,0,500,6,Aqua Tail,45,Water,1,5,2350,50,12/10/2016
+313,17,67%,112,34%,54,Psyduck,Water,,100,122,96,Water Gun,6,Water,1,500,7,Cross Chop,60,Fighting,0,25,2000,100,12/10/2016
+576,74,43%,39,59%,95,Onix,Rock,Ground,70,85,288,Tackle,12,Normal,0,1100,10,Iron Head,30,Steel,0,5,2000,33,12/10/2016
+2,12,88%,46,53%,1,Bulbasaur,Grass,Poison,90,118,118,Vine Whip,7,Grass,1,650,7,Seed Bomb,40,Grass,1,5,2400,33,12/10/2016
+594,5,91%,28,53%,98,Krabby,Water,,60,181,156,Mud Shot,6,Ground,0,550,7,Water Pulse,35,Water,1,5,3300,25,12/10/2016
+825,64,63%,78,49%,138,Omanyte,Rock,Water,70,155,174,Mud Shot,6,Ground,0,550,7,Rock Tomb,30,Rock,1,25,3400,25,12/10/2016
+624,76,44%,15,69%,104,Cubone,Ground,,100,90,165,Mud Slap,15,Ground,1,1350,12,Bulldoze,35,Ground,1,5,3400,25,12/10/2016
+656,60,64%,37,61%,109,Koffing,Poison,,80,119,164,Acid,10,Poison,1,1050,10,Sludge,30,Poison,1,5,2600,25,8/19/2016
+593,7,90%,33,49%,98,Krabby,Water,,60,181,156,Mud Shot,6,Ground,0,550,7,Bubble Beam,30,Water,1,5,2900,25,12/10/2016
+508,153,39%,42,61%,86,Seel,Water,,130,85,128,Ice Shard,15,Ice,0,1400,12,Aqua Tail,45,Water,1,5,2350,50,12/10/2016
+625,77,43%,21,63%,104,Cubone,Ground,,100,90,165,Rock Smash,15,Fighting,0,1410,12,Bone Club,25,Ground,1,5,1600,25,12/10/2016
+488,53,53%,22,63%,83,Farfetch'd,Normal,Flying,104,124,118,Cut,12,Normal,1,1130,10,Aerial Ace,30,Flying,1,5,2900,25,12/10/2016
+489,53,53%,31,59%,83,Farfetch'd,Normal,Flying,104,124,118,Cut,12,Normal,1,1130,10,Air Cutter,30,Flying,1,25,3300,25,12/10/2016
+271,69,50%,58,48%,48,Venonat,Bug,Poison,120,100,102,Bug Bite,5,Bug,1,450,7,Signal Beam,45,Bug,1,5,3100,33,12/10/2016
+192,110,43%,72,46%,35,Clefairy,Fairy,,140,107,116,Zen Headbutt,12,Psychic,0,1050,9,Disarming Voice,25,Fairy,1,5,3900,20,12/10/2016
+798,85,48%,60,53%,133,Eevee,Normal,,110,104,121,Quick Attack,10,Normal,1,1330,12,Body Slam,40,Normal,1,5,1560,50,12/10/2016
+714,39,58%,85,40%,118,Goldeen,Water,,90,123,115,Mud Shot,6,Ground,0,550,7,Aqua Tail,45,Water,1,5,2350,50,12/10/2016
+4,16,83%,35,62%,1,Bulbasaur,Grass,Poison,90,118,118,Tackle,12,Normal,0,1100,10,Sludge Bomb,55,Poison,1,5,2600,50,12/10/2016
+241,19,77%,29,54%,43,Oddish,Grass,Poison,90,131,116,Razor Leaf,15,Grass,1,1450,12,Moonblast,85,Fairy,0,5,4100,100,12/10/2016
+493,59,52%,101,30%,83,Farfetch'd,Normal,Flying,104,124,118,Fury Cutter,3,Bug,0,400,6,Leaf Blade,55,Grass,0,25,2800,50,12/10/2016
+659,65,61%,44,59%,109,Koffing,Poison,,80,119,164,Tackle,12,Normal,0,1100,10,Sludge,30,Poison,1,5,2600,25,12/10/2016
+626,80,41%,12,73%,104,Cubone,Ground,,100,90,165,Rock Smash,15,Fighting,0,1410,12,Dig,70,Ground,1,5,5800,33,12/10/2016
+592,11,85%,37,44%,98,Krabby,Water,,60,181,156,Mud Shot,6,Ground,0,550,7,Vice Grip,25,Normal,0,5,2100,20,12/10/2016
+85,54,49%,20,67%,17,Pidgeotto,Normal,Flying,126,117,108,Steel Wing,15,Steel,0,1330,12,Aerial Ace,30,Flying,1,5,2900,25,12/10/2016
+658,67,60%,47,58%,109,Koffing,Poison,,80,119,164,Acid,10,Poison,1,1050,10,Dark Pulse,45,Dark,0,5,3500,33,8/19/2016
+244,23,75%,41,45%,43,Oddish,Grass,Poison,90,131,116,Acid,10,Poison,1,1050,10,Moonblast,85,Fairy,0,5,4100,100,12/10/2016
+417,8,69%,1,100%,72,Tentacool,Water,Poison,80,97,182,Bubble,25,Water,1,2300,25,Water Pulse,35,Water,1,5,3300,25,12/10/2016
+416,8,69%,2,95%,72,Tentacool,Water,Poison,80,97,182,Bubble,25,Water,1,2300,25,Bubble Beam,30,Water,1,5,2900,25,12/10/2016
+418,8,69%,7,69%,72,Tentacool,Water,Poison,80,97,182,Bubble,25,Water,1,2300,25,Wrap,25,Normal,0,5,4000,20,12/10/2016
+429,73,60%,24,71%,74,Geodude,Rock,Ground,80,132,163,Rock Throw,12,Rock,1,1360,15,Rock Tomb,30,Rock,1,25,3400,25,12/10/2016
+432,74,59%,45,60%,74,Geodude,Rock,Ground,80,132,163,Tackle,12,Normal,0,1100,10,Rock Tomb,30,Rock,1,25,3400,25,12/10/2016
+799,92,45%,31,62%,133,Eevee,Normal,,110,104,121,Tackle,12,Normal,1,1100,10,Dig,70,Ground,0,5,5800,33,12/10/2016
+800,92,45%,45,57%,133,Eevee,Normal,,110,104,121,Tackle,12,Normal,1,1100,10,Swift,30,Normal,1,5,3000,25,12/10/2016
+6,19,79%,49,49%,1,Bulbasaur,Grass,Poison,90,118,118,Tackle,12,Normal,0,1100,10,Power Whip,70,Grass,1,0,2800,100,12/10/2016
+420,11,67%,9,57%,72,Tentacool,Water,Poison,80,97,182,Poison Sting,6,Poison,1,575,8,Water Pulse,35,Water,1,5,3300,25,12/10/2016
+661,73,58%,52,57%,109,Koffing,Poison,,80,119,164,Tackle,12,Normal,0,1100,10,Dark Pulse,45,Dark,0,5,3500,33,12/10/2016
+836,9,61%,14,66%,140,Kabuto,Rock,Water,60,148,162,Scratch,6,Normal,0,500,7,Aqua Jet,25,Water,1,5,2350,20,12/10/2016
+419,12,67%,10,56%,72,Tentacool,Water,Poison,80,97,182,Poison Sting,6,Poison,1,575,8,Bubble Beam,30,Water,1,5,2900,25,12/10/2016
+421,12,67%,13,42%,72,Tentacool,Water,Poison,80,97,182,Poison Sting,6,Poison,1,575,8,Wrap,25,Normal,0,5,4000,20,12/10/2016
+5,21,77%,36,60%,1,Bulbasaur,Grass,Poison,90,118,118,Tackle,12,Normal,0,1100,10,Seed Bomb,40,Grass,1,5,2400,33,12/10/2016
+478,4,88%,35,61%,81,Magnemite,Electric,Steel,50,165,128,Spark,7,Electric,1,700,8,Thunderbolt,55,Electric,1,5,2700,50,12/10/2016
+86,61,46%,22,63%,17,Pidgeotto,Normal,Flying,126,117,108,Steel Wing,15,Steel,0,1330,12,Air Cutter,30,Flying,1,25,3300,25,12/10/2016
+84,61,46%,35,58%,17,Pidgeotto,Normal,Flying,126,117,108,Steel Wing,15,Steel,0,1330,12,Twister,25,Dragon,0,5,2700,20,12/10/2016
+839,12,58%,15,65%,140,Kabuto,Rock,Water,60,148,162,Mud Shot,6,Ground,0,550,7,Aqua Jet,25,Water,1,5,2350,20,12/10/2016
+311,52,56%,86,42%,54,Psyduck,Water,,100,122,96,Water Gun,6,Water,1,500,7,Psybeam,40,Psychic,0,5,3800,25,12/10/2016
+326,6,77%,83,36%,56,Mankey,Fighting,,80,148,87,Scratch,6,Normal,0,500,7,Cross Chop,60,Fighting,1,25,2000,100,12/10/2016
+315,53,56%,57,52%,54,Psyduck,Water,,100,122,96,Zen Headbutt,12,Psychic,0,1050,9,Aqua Tail,45,Water,1,5,2350,50,12/10/2016
+481,7,83%,48,54%,81,Magnemite,Electric,Steel,50,165,128,Thunder Shock,5,Electric,1,600,8,Thunderbolt,55,Electric,1,5,2700,50,12/10/2016
+835,13,58%,16,64%,140,Kabuto,Rock,Water,60,148,162,Scratch,6,Normal,0,500,7,Ancient Power,35,Rock,1,5,3600,25,12/10/2016
+627,84,37%,25,62%,104,Cubone,Ground,,100,90,165,Rock Smash,15,Fighting,0,1410,12,Bulldoze,35,Ground,1,5,3400,25,12/10/2016
+837,14,57%,18,63%,140,Kabuto,Rock,Water,60,148,162,Scratch,6,Normal,0,500,7,Rock Tomb,30,Rock,1,25,3400,25,12/10/2016
+338,61,57%,75,45%,58,Growlithe,Fire,,110,136,96,Bite,6,Dark,0,500,7,Flame Wheel,40,Fire,1,5,4600,25,12/10/2016
+602,35,58%,32,57%,100,Voltorb,Electric,,80,109,114,Spark,7,Electric,1,700,8,Thunderbolt,55,Electric,1,5,2700,50,12/10/2016
+38,58,49%,1,100%,7,Squirtle,Water,,88,94,122,Bubble,25,Water,1,2300,25,Aqua Tail,45,Water,1,5,2350,50,12/10/2016
+335,62,56%,47,57%,58,Growlithe,Fire,,110,136,96,Ember,10,Fire,1,1050,10,Flame Wheel,40,Fire,1,5,4600,25,12/10/2016
+328,8,75%,63,45%,56,Mankey,Fighting,,80,148,87,Scratch,6,Normal,0,500,7,Brick Break,30,Fighting,1,25,1600,33,12/10/2016
+269,98,42%,66,45%,48,Venonat,Bug,Poison,120,100,102,Bug Bite,5,Bug,1,450,7,Poison Fang,25,Poison,1,5,2400,20,12/10/2016
+270,98,42%,82,41%,48,Venonat,Bug,Poison,120,100,102,Bug Bite,5,Bug,1,450,7,Psybeam,40,Psychic,0,5,3800,25,12/10/2016
+506,163,33%,50,59%,86,Seel,Water,,130,85,128,Ice Shard,15,Ice,0,1400,12,Aqua Jet,25,Water,1,5,2350,20,12/10/2016
+512,164,32%,126,37%,86,Seel,Water,,130,85,128,Lick,5,Ghost,0,500,6,Aqua Jet,25,Water,1,5,2350,20,12/10/2016
+274,103,42%,22,68%,48,Venonat,Bug,Poison,120,100,102,Confusion,15,Psychic,0,1510,14,Signal Beam,45,Bug,1,5,3100,33,12/10/2016
+838,16,56%,16,64%,140,Kabuto,Rock,Water,60,148,162,Mud Shot,6,Ground,0,550,7,Ancient Power,35,Rock,1,5,3600,25,12/10/2016
+214,62,51%,86,46%,39,Jigglypuff,Normal,Fairy,230,80,44,Pound,7,Normal,1,540,7,Body Slam,40,Normal,1,5,1560,50,12/10/2016
+158,58,49%,57,52%,29,Nidoran F,Poison,,110,86,94,Poison Sting,6,Poison,1,575,8,Sludge Bomb,55,Poison,1,5,2600,50,12/10/2016
+711,75,49%,45,52%,118,Goldeen,Water,,90,123,115,Peck,10,Flying,0,1150,10,Aqua Tail,45,Water,1,5,2350,50,12/10/2016
+491,82,43%,97,33%,83,Farfetch'd,Normal,Flying,104,124,118,Fury Cutter,3,Bug,0,400,6,Aerial Ace,30,Flying,1,5,2900,25,12/10/2016
+155,60,47%,81,43%,29,Nidoran F,Poison,,110,86,94,Bite,6,Dark,0,500,7,Sludge Bomb,55,Poison,1,5,2600,50,12/10/2016
+365,1,100%,4,75%,63,Abra,Psychic,,50,195,103,Zen Headbutt,12,Psychic,1,1050,9,Psyshock,40,Psychic,1,5,2700,33,12/10/2016
+316,64,51%,89,42%,54,Psyduck,Water,,100,122,96,Zen Headbutt,12,Psychic,0,1050,9,Cross Chop,60,Fighting,0,25,2000,100,12/10/2016
+698,14,65%,43,50%,116,Horsea,Water,,60,129,125,Water Gun,6,Water,1,500,7,Dragon Pulse,65,Dragon,0,5,3600,50,12/10/2016
+399,5,76%,63,50%,69,Bellsprout,Grass,Poison,100,139,64,Vine Whip,7,Grass,1,650,7,Sludge Bomb,55,Poison,1,5,2600,50,12/10/2016
+840,20,52%,20,58%,140,Kabuto,Rock,Water,60,148,162,Mud Shot,6,Ground,0,550,7,Rock Tomb,30,Rock,1,25,3400,25,12/10/2016
+712,80,46%,57,48%,118,Goldeen,Water,,90,123,115,Mud Shot,6,Ground,0,550,7,Water Pulse,35,Water,1,5,3300,25,12/10/2016
+476,11,74%,46,56%,81,Magnemite,Electric,Steel,50,165,128,Spark,7,Electric,1,700,8,Discharge,35,Electric,1,5,2500,33,12/10/2016
+215,73,47%,83,46%,39,Jigglypuff,Normal,Fairy,230,80,44,Pound,7,Normal,1,540,7,Play Rough,55,Fairy,1,5,2900,50,8/19/2016
+605,49,52%,27,62%,100,Voltorb,Electric,,80,109,114,Tackle,12,Normal,0,1100,10,Thunderbolt,55,Electric,1,5,2700,50,12/10/2016
+492,97,40%,98,33%,83,Farfetch'd,Normal,Flying,104,124,118,Fury Cutter,3,Bug,0,400,6,Air Cutter,30,Flying,1,25,3300,25,12/10/2016
+870,19,70%,38,41%,147,Dratini,Dragon,,82,119,94,Dragon Breath,6,Dragon,1,500,7,Aqua Tail,45,Water,0,5,2350,50,12/10/2016
+507,165,29%,96,45%,86,Seel,Water,,130,85,128,Ice Shard,15,Ice,0,1400,12,Icy Wind,25,Ice,0,5,3800,20,12/10/2016
+796,120,36%,56,55%,133,Eevee,Normal,,110,104,121,Quick Attack,10,Normal,1,1330,12,Dig,70,Ground,0,5,5800,33,12/10/2016
+797,120,36%,60,53%,133,Eevee,Normal,,110,104,121,Quick Attack,10,Normal,1,1330,12,Swift,30,Normal,1,5,3000,25,12/10/2016
+398,7,72%,81,43%,69,Bellsprout,Grass,Poison,100,139,64,Vine Whip,7,Grass,1,650,7,Power Whip,70,Grass,1,0,2800,100,12/10/2016
+327,15,66%,59,47%,56,Mankey,Fighting,,80,148,87,Scratch,6,Normal,0,500,7,Low Sweep,30,Fighting,1,5,2250,25,12/10/2016
+157,67,44%,89,41%,29,Nidoran F,Poison,,110,86,94,Poison Sting,6,Poison,1,575,8,Body Slam,40,Normal,0,5,1560,50,12/10/2016
+701,24,60%,2,98%,116,Horsea,Water,,60,129,125,Bubble,25,Water,1,2300,25,Dragon Pulse,65,Dragon,0,5,3600,50,12/10/2016
+24,21,60%,75,42%,4,Charmander,Fire,,78,116,96,Scratch,6,Normal,0,500,7,Flamethrower,55,Fire,1,5,2900,50,12/10/2016
+479,13,70%,62,49%,81,Magnemite,Electric,Steel,50,165,128,Thunder Shock,5,Electric,1,600,8,Discharge,35,Electric,1,5,2500,33,12/10/2016
+41,76,42%,33,58%,7,Squirtle,Water,,88,94,122,Tackle,12,Normal,0,1100,10,Aqua Tail,45,Water,1,5,2350,50,12/10/2016
+262,9,65%,46,46%,46,Paras,Bug,Grass,70,121,99,Bug Bite,5,Bug,1,450,7,Seed Bomb,40,Grass,1,5,2400,33,12/10/2016
+699,26,60%,30,56%,116,Horsea,Water,,60,129,125,Water Gun,6,Water,1,500,7,Flash Cannon,60,Steel,0,5,3900,33,12/10/2016
+601,55,49%,48,52%,100,Voltorb,Electric,,80,109,114,Spark,7,Electric,1,700,8,Discharge,35,Electric,1,5,2500,33,12/10/2016
+118,16,63%,60,46%,23,Ekans,Poison,,70,110,102,Poison Sting,6,Poison,1,575,8,Sludge Bomb,55,Poison,1,5,2600,50,12/10/2016
+402,9,70%,31,61%,69,Bellsprout,Grass,Poison,100,139,64,Acid,10,Poison,1,1050,10,Sludge Bomb,55,Poison,1,5,2600,50,12/10/2016
+697,29,59%,39,51%,116,Horsea,Water,,60,129,125,Water Gun,6,Water,1,500,7,Bubble Beam,30,Water,1,5,2900,25,12/10/2016
+367,2,91%,6,70%,63,Abra,Psychic,,50,195,103,Zen Headbutt,12,Psychic,1,1050,9,Shadow Ball,45,Ghost,0,5,3080,33,12/10/2016
+261,10,64%,53,43%,46,Paras,Bug,Grass,70,121,99,Bug Bite,5,Bug,1,450,7,X-Scissor,35,Bug,1,5,2100,33,12/10/2016
+366,3,90%,6,70%,63,Abra,Psychic,,50,195,103,Zen Headbutt,12,Psychic,1,1050,9,Signal Beam,45,Bug,0,5,3100,33,12/10/2016
+205,48,47%,20,62%,37,Vulpix,Fire,,76,96,122,Ember,10,Fire,1,1050,10,Flamethrower,55,Fire,1,5,2900,50,12/10/2016
+154,73,42%,96,37%,29,Nidoran F,Poison,,110,86,94,Bite,6,Dark,0,500,7,Body Slam,40,Normal,0,5,1560,50,12/10/2016
+325,24,63%,57,47%,56,Mankey,Fighting,,80,148,87,Karate Chop,6,Fighting,1,800,8,Brick Break,30,Fighting,1,25,1600,33,12/10/2016
+323,24,63%,80,39%,56,Mankey,Fighting,,80,148,87,Karate Chop,6,Fighting,1,800,8,Cross Chop,60,Fighting,1,25,2000,100,12/10/2016
+513,166,27%,153,29%,86,Seel,Water,,130,85,128,Lick,5,Ghost,0,500,6,Icy Wind,25,Ice,0,5,3800,20,12/10/2016
+709,104,42%,39,54%,118,Goldeen,Water,,90,123,115,Peck,10,Flying,0,1150,10,Water Pulse,35,Water,1,5,3300,25,12/10/2016
+713,104,42%,100,36%,118,Goldeen,Water,,90,123,115,Mud Shot,6,Ground,0,550,7,Horn Attack,25,Normal,0,5,2200,25,12/10/2016
+543,31,43%,9,77%,90,Shellder,Water,,60,116,168,Tackle,12,Normal,0,1100,10,Water Pulse,35,Water,1,5,3300,25,12/10/2016
+540,33,42%,6,81%,90,Shellder,Water,,60,116,168,Ice Shard,15,Ice,0,1400,12,Water Pulse,35,Water,1,5,3300,25,12/10/2016
+542,34,42%,10,71%,90,Shellder,Water,,60,116,168,Tackle,12,Normal,0,1100,10,Bubble Beam,30,Water,1,5,2900,25,12/10/2016
+272,127,35%,31,61%,48,Venonat,Bug,Poison,120,100,102,Confusion,15,Psychic,0,1510,14,Poison Fang,25,Poison,1,5,2400,20,12/10/2016
+401,11,66%,43,56%,69,Bellsprout,Grass,Poison,100,139,64,Acid,10,Poison,1,1050,10,Power Whip,70,Grass,1,0,2800,100,12/10/2016
+21,30,57%,32,60%,4,Charmander,Fire,,78,116,96,Ember,10,Fire,1,1050,10,Flamethrower,55,Fire,1,5,2900,50,12/10/2016
+702,33,57%,1,100%,116,Horsea,Water,,60,129,125,Bubble,25,Water,1,2300,25,Flash Cannon,60,Steel,0,5,3900,33,12/10/2016
+725,9,63%,45,49%,120,Staryu,Water,,60,137,112,Water Gun,6,Water,1,500,7,Bubble Beam,30,Water,1,5,2900,25,12/10/2016
+726,9,63%,52,46%,120,Staryu,Water,,60,137,112,Water Gun,6,Water,1,500,7,Power Gem,40,Rock,0,5,2900,33,12/10/2016
+724,9,63%,58,44%,120,Staryu,Water,,60,137,112,Water Gun,6,Water,1,500,7,Swift,30,Normal,0,5,3000,25,12/10/2016
+259,19,61%,49,46%,46,Paras,Bug,Grass,70,121,99,Scratch,6,Normal,0,500,7,Seed Bomb,40,Grass,1,5,2400,33,12/10/2016
+539,35,42%,7,79%,90,Shellder,Water,,60,116,168,Ice Shard,15,Ice,0,1400,12,Bubble Beam,30,Water,1,5,2900,25,12/10/2016
+869,24,64%,26,48%,147,Dratini,Dragon,,82,119,94,Dragon Breath,6,Dragon,1,500,7,Twister,25,Dragon,1,5,2700,20,12/10/2016
+868,24,64%,41,37%,147,Dratini,Dragon,,82,119,94,Dragon Breath,6,Dragon,1,500,7,Wrap,25,Normal,0,5,4000,20,12/10/2016
+553,1,100%,62,39%,92,Gastly,Ghost,Poison,60,186,70,Lick,5,Ghost,1,500,6,Sludge Bomb,55,Poison,1,5,2600,50,12/10/2016
+477,18,65%,50,53%,81,Magnemite,Electric,Steel,50,165,128,Spark,7,Electric,1,700,8,Magnet Bomb,30,Steel,1,5,2800,25,12/10/2016
+176,9,64%,52,44%,32,Nidoran M,Poison,,92,105,76,Poison Sting,6,Poison,1,575,8,Sludge Bomb,55,Poison,1,5,2600,50,12/10/2016
+39,85,39%,4,91%,7,Squirtle,Water,,88,94,122,Bubble,25,Water,1,2300,25,Water Pulse,35,Water,1,5,3300,25,12/10/2016
+37,85,39%,6,88%,7,Squirtle,Water,,88,94,122,Bubble,25,Water,1,2300,25,Aqua Jet,25,Water,1,5,2350,20,12/10/2016
+494,2,72%,6,72%,84,Doduo,Normal,Flying,70,158,88,Peck,10,Flying,1,1150,10,Drill Peck,40,Flying,1,5,2700,33,12/10/2016
+258,22,59%,56,43%,46,Paras,Bug,Grass,70,121,99,Scratch,6,Normal,0,500,7,X-Scissor,35,Bug,1,5,2100,33,12/10/2016
+604,64,45%,37,57%,100,Voltorb,Electric,,80,109,114,Tackle,12,Normal,0,1100,10,Discharge,35,Electric,1,5,2500,33,12/10/2016
+314,94,43%,66,50%,54,Psyduck,Water,,100,122,96,Zen Headbutt,12,Psychic,0,1050,9,Psybeam,40,Psychic,0,5,3800,25,12/10/2016
+603,65,45%,52,52%,100,Voltorb,Electric,,80,109,114,Spark,7,Electric,1,700,8,Signal Beam,45,Bug,0,5,3100,33,12/10/2016
+131,7,62%,52,41%,25,Pikachu,Electric,,70,112,101,Thunder Shock,5,Electric,1,600,8,Thunder,100,Electric,1,5,4300,100,12/10/2016
+204,59,44%,47,51%,37,Vulpix,Fire,,76,96,122,Ember,10,Fire,1,1050,10,Body Slam,40,Normal,0,5,1560,50,12/10/2016
+219,103,40%,58,54%,39,Jigglypuff,Normal,Fairy,230,80,44,Pound,7,Normal,1,540,7,Dazzling Gleam,55,Fairy,1,5,4200,33,12/10/2016
+119,31,56%,90,34%,23,Ekans,Poison,,70,110,102,Poison Sting,6,Poison,1,575,8,Gunk Shot,65,Poison,1,5,3000,100,12/10/2016
+324,35,58%,49,52%,56,Mankey,Fighting,,80,148,87,Karate Chop,6,Fighting,1,800,8,Low Sweep,30,Fighting,1,5,2250,25,12/10/2016
+213,104,40%,108,39%,39,Jigglypuff,Normal,Fairy,230,80,44,Pound,7,Normal,1,540,7,Disarming Voice,25,Fairy,1,5,3900,20,12/10/2016
+130,10,61%,41,49%,25,Pikachu,Electric,,70,112,101,Thunder Shock,5,Electric,1,600,8,Thunderbolt,55,Electric,1,5,2700,50,12/10/2016
+23,42,53%,63,46%,4,Charmander,Fire,,78,116,96,Scratch,6,Normal,0,500,7,Flame Burst,30,Fire,1,5,2100,25,12/10/2016
+700,39,53%,6,89%,116,Horsea,Water,,60,129,125,Bubble,25,Water,1,2300,25,Bubble Beam,30,Water,1,5,2900,25,12/10/2016
+217,105,39%,76,49%,39,Jigglypuff,Normal,Fairy,230,80,44,Feint Attack,12,Dark,0,1040,10,Body Slam,40,Normal,1,5,1560,50,12/10/2016
+795,1,100%,1,100%,132,Ditto,Normal,,96,91,91,Pound,7,Normal,1,540,7,Struggle,15,Normal,1,0,1695,20,12/10/2016
+121,35,55%,40,54%,23,Ekans,Poison,,70,110,102,Acid,10,Poison,1,1050,10,Sludge Bomb,55,Poison,1,5,2600,50,12/10/2016
+556,2,93%,48,45%,92,Gastly,Ghost,Poison,60,186,70,Sucker Punch,7,Dark,0,700,9,Sludge Bomb,55,Poison,1,5,2600,50,12/10/2016
+480,28,61%,60,50%,81,Magnemite,Electric,Steel,50,165,128,Thunder Shock,5,Electric,1,600,8,Magnet Bomb,30,Steel,1,5,2800,25,12/10/2016
+260,32,56%,63,37%,46,Paras,Bug,Grass,70,121,99,Bug Bite,5,Bug,1,450,7,Cross Poison,25,Poison,0,25,1500,25,12/10/2016
+218,108,38%,53,55%,39,Jigglypuff,Normal,Fairy,230,80,44,Feint Attack,12,Dark,0,1040,10,Play Rough,55,Fairy,1,5,2900,50,8/19/2016
+497,3,67%,4,75%,84,Doduo,Normal,Flying,70,158,88,Quick Attack,10,Normal,1,1330,12,Drill Peck,40,Flying,1,5,2700,33,12/10/2016
+544,42,38%,21,56%,90,Shellder,Water,,60,116,168,Tackle,12,Normal,0,1100,10,Icy Wind,25,Ice,0,5,3800,20,12/10/2016
+20,46,51%,33,59%,4,Charmander,Fire,,78,116,96,Ember,10,Fire,1,1050,10,Flame Burst,30,Fire,1,5,2100,25,12/10/2016
+273,131,31%,37,56%,48,Venonat,Bug,Poison,120,100,102,Confusion,15,Psychic,0,1510,14,Psybeam,40,Psychic,0,5,3800,25,12/10/2016
+541,43,38%,15,61%,90,Shellder,Water,,60,116,168,Ice Shard,15,Ice,0,1400,12,Icy Wind,25,Ice,0,5,3800,20,12/10/2016
+710,124,37%,69,44%,118,Goldeen,Water,,90,123,115,Peck,10,Flying,0,1150,10,Horn Attack,25,Normal,0,5,2200,25,12/10/2016
+606,80,41%,38,57%,100,Voltorb,Electric,,80,109,114,Tackle,12,Normal,0,1100,10,Signal Beam,45,Bug,0,5,3100,33,12/10/2016
+175,22,58%,73,35%,32,Nidoran M,Poison,,92,105,76,Poison Sting,6,Poison,1,575,8,Body Slam,40,Normal,0,5,1560,50,12/10/2016
+40,93,35%,32,58%,7,Squirtle,Water,,88,94,122,Tackle,12,Normal,0,1100,10,Aqua Jet,25,Water,1,5,2350,20,12/10/2016
+42,94,35%,28,62%,7,Squirtle,Water,,88,94,122,Tackle,12,Normal,0,1100,10,Water Pulse,35,Water,1,5,3300,25,12/10/2016
+301,7,78%,44,49%,52,Meowth,Normal,,80,92,81,Scratch,6,Normal,1,500,7,Body Slam,40,Normal,1,5,1560,50,12/10/2016
+400,35,57%,94,37%,69,Bellsprout,Grass,Poison,100,139,64,Vine Whip,7,Grass,1,650,7,Wrap,25,Normal,0,5,4000,20,12/10/2016
+122,46,51%,74,42%,23,Ekans,Poison,,70,110,102,Acid,10,Poison,1,1050,10,Gunk Shot,65,Poison,1,5,3000,100,12/10/2016
+257,39,52%,67,36%,46,Paras,Bug,Grass,70,121,99,Scratch,6,Normal,0,500,7,Cross Poison,25,Poison,0,25,1500,25,12/10/2016
+156,97,34%,66,49%,29,Nidoran F,Poison,,110,86,94,Poison Sting,6,Poison,1,575,8,Poison Fang,25,Poison,1,5,2400,20,12/10/2016
+495,8,61%,14,68%,84,Doduo,Normal,Flying,70,158,88,Peck,10,Flying,1,1150,10,Aerial Ace,30,Flying,1,5,2900,25,12/10/2016
+220,120,35%,35,61%,39,Jigglypuff,Normal,Fairy,230,80,44,Feint Attack,12,Dark,0,1040,10,Dazzling Gleam,55,Fairy,1,5,4200,33,12/10/2016
+496,14,60%,14,68%,84,Doduo,Normal,Flying,70,158,88,Peck,10,Flying,1,1150,10,Swift,30,Normal,1,5,3000,25,12/10/2016
+202,90,37%,44,53%,37,Vulpix,Fire,,76,96,122,Quick Attack,10,Normal,0,1330,12,Flamethrower,55,Fire,1,5,2900,50,12/10/2016
+153,98,33%,77,44%,29,Nidoran F,Poison,,110,86,94,Bite,6,Dark,0,500,7,Poison Fang,25,Poison,1,5,2400,20,12/10/2016
+729,36,51%,34,54%,120,Staryu,Water,,60,137,112,Tackle,12,Normal,0,1100,10,Power Gem,40,Rock,0,5,2900,33,12/10/2016
+129,29,51%,45,44%,25,Pikachu,Electric,,70,112,101,Thunder Shock,5,Electric,1,600,8,Discharge,35,Electric,1,5,2500,33,12/10/2016
+728,41,50%,25,57%,120,Staryu,Water,,60,137,112,Tackle,12,Normal,0,1100,10,Bubble Beam,30,Water,1,5,2900,25,12/10/2016
+349,8,71%,1,100%,60,Poliwag,Water,,80,101,82,Bubble,25,Water,1,2300,25,Body Slam,40,Normal,0,5,1560,50,12/10/2016
+498,17,58%,9,69%,84,Doduo,Normal,Flying,70,158,88,Quick Attack,10,Normal,1,1330,12,Aerial Ace,30,Flying,1,5,2900,25,12/10/2016
+304,17,70%,49,44%,52,Meowth,Normal,,80,92,81,Bite,6,Dark,0,500,7,Body Slam,40,Normal,1,5,1560,50,12/10/2016
+499,20,56%,9,69%,84,Doduo,Normal,Flying,70,158,88,Quick Attack,10,Normal,1,1330,12,Swift,30,Normal,1,5,3000,25,12/10/2016
+206,93,35%,46,52%,37,Vulpix,Fire,,76,96,122,Ember,10,Fire,1,1050,10,Flame Charge,25,Fire,1,5,3100,20,12/10/2016
+403,57,51%,84,42%,69,Bellsprout,Grass,Poison,100,139,64,Acid,10,Poison,1,1050,10,Wrap,25,Normal,0,5,4000,20,12/10/2016
+133,31,49%,26,59%,25,Pikachu,Electric,,70,112,101,Quick Attack,10,Normal,0,1330,12,Thunderbolt,55,Electric,1,5,2700,50,12/10/2016
+22,62,43%,79,39%,4,Charmander,Fire,,78,116,96,Scratch,6,Normal,0,500,7,Flame Charge,25,Fire,1,5,3100,20,12/10/2016
+19,66,42%,52,51%,4,Charmander,Fire,,78,116,96,Ember,10,Fire,1,1050,10,Flame Charge,25,Fire,1,5,3100,20,12/10/2016
+134,34,48%,44,46%,25,Pikachu,Electric,,70,112,101,Quick Attack,10,Normal,0,1330,12,Thunder,100,Electric,1,5,4300,100,12/10/2016
+117,61,44%,94,32%,23,Ekans,Poison,,70,110,102,Poison Sting,6,Poison,1,575,8,Wrap,25,Normal,0,5,4000,20,12/10/2016
+201,99,34%,63,45%,37,Vulpix,Fire,,76,96,122,Quick Attack,10,Normal,0,1330,12,Body Slam,40,Normal,0,5,1560,50,12/10/2016
+173,45,47%,47,46%,32,Nidoran M,Poison,,92,105,76,Peck,10,Flying,0,1150,10,Sludge Bomb,55,Poison,1,5,2600,50,12/10/2016
+727,46,45%,41,51%,120,Staryu,Water,,60,137,112,Tackle,12,Normal,0,1100,10,Swift,30,Normal,0,5,3000,25,12/10/2016
+352,12,65%,36,44%,60,Poliwag,Water,,80,101,82,Mud Shot,6,Ground,0,550,7,Body Slam,40,Normal,0,5,1560,50,12/10/2016
+552,3,72%,73,34%,92,Gastly,Ghost,Poison,60,186,70,Lick,5,Ghost,1,500,6,Dark Pulse,45,Dark,0,5,3500,33,12/10/2016
+551,4,71%,69,36%,92,Gastly,Ghost,Poison,60,186,70,Lick,5,Ghost,1,500,6,Ominous Wind,30,Ghost,1,5,3100,25,12/10/2016
+174,55,45%,74,34%,32,Nidoran M,Poison,,92,105,76,Poison Sting,6,Poison,1,575,8,Horn Attack,25,Normal,0,5,2200,25,12/10/2016
+723,54,43%,40,51%,120,Staryu,Water,,60,137,112,Quick Attack,10,Normal,0,1330,12,Power Gem,40,Rock,0,5,2900,33,8/19/2016
+722,55,43%,33,55%,120,Staryu,Water,,60,137,112,Quick Attack,10,Normal,0,1330,12,Bubble Beam,30,Water,1,5,2900,25,8/19/2016
+120,77,40%,82,37%,23,Ekans,Poison,,70,110,102,Acid,10,Poison,1,1050,10,Wrap,25,Normal,0,5,4000,20,12/10/2016
+216,125,28%,90,45%,39,Jigglypuff,Normal,Fairy,230,80,44,Feint Attack,12,Dark,0,1040,10,Disarming Voice,25,Fairy,1,5,3900,20,12/10/2016
+132,47,42%,34,52%,25,Pikachu,Electric,,70,112,101,Quick Attack,10,Normal,0,1330,12,Discharge,35,Electric,1,5,2500,33,12/10/2016
+232,6,69%,36,40%,41,Zubat,Poison,Flying,80,83,76,Bite,6,Dark,0,500,7,Sludge Bomb,55,Poison,1,5,2600,50,12/10/2016
+555,6,66%,58,40%,92,Gastly,Ghost,Poison,60,186,70,Sucker Punch,7,Dark,0,700,9,Dark Pulse,45,Dark,0,5,3500,33,12/10/2016
+300,31,59%,45,47%,52,Meowth,Normal,,80,92,81,Scratch,6,Normal,1,500,7,Dark Pulse,45,Dark,0,5,3500,33,12/10/2016
+299,31,59%,48,45%,52,Meowth,Normal,,80,92,81,Scratch,6,Normal,1,500,7,Night Slash,30,Dark,0,25,2700,25,12/10/2016
+347,26,58%,4,97%,60,Poliwag,Water,,80,101,82,Bubble,25,Water,1,2300,25,Bubble Beam,30,Water,1,5,2900,25,12/10/2016
+348,26,58%,5,90%,60,Poliwag,Water,,80,101,82,Bubble,25,Water,1,2300,25,Mud Bomb,30,Ground,0,5,2600,25,12/10/2016
+172,64,42%,68,37%,32,Nidoran M,Poison,,92,105,76,Peck,10,Flying,0,1150,10,Body Slam,40,Normal,0,5,1560,50,12/10/2016
+554,8,64%,56,41%,92,Gastly,Ghost,Poison,60,186,70,Sucker Punch,7,Dark,0,700,9,Ominous Wind,30,Ghost,1,5,3100,25,12/10/2016
+721,79,36%,46,48%,120,Staryu,Water,,60,137,112,Quick Attack,10,Normal,0,1330,12,Swift,30,Normal,0,5,3000,25,8/19/2016
+350,31,52%,30,50%,60,Poliwag,Water,,80,101,82,Mud Shot,6,Ground,0,550,7,Bubble Beam,30,Water,1,5,2900,25,12/10/2016
+203,103,26%,57,47%,37,Vulpix,Fire,,76,96,122,Quick Attack,10,Normal,0,1330,12,Flame Charge,25,Fire,1,5,3100,20,12/10/2016
+95,1,100%,16,79%,19,Rattata,Normal,,60,103,70,Tackle,12,Normal,1,1100,10,Body Slam,40,Normal,1,5,1560,50,12/10/2016
+106,2,93%,2,96%,21,Spearow,Normal,Flying,80,112,61,Peck,10,Flying,1,1150,10,Drill Peck,40,Flying,1,5,2700,33,12/10/2016
+351,34,48%,33,45%,60,Poliwag,Water,,80,101,82,Mud Shot,6,Ground,0,550,7,Mud Bomb,30,Ground,0,5,2600,25,12/10/2016
+303,43,49%,51,43%,52,Meowth,Normal,,80,92,81,Bite,6,Dark,0,500,7,Dark Pulse,45,Dark,0,5,3500,33,12/10/2016
+171,83,34%,71,35%,32,Nidoran M,Poison,,92,105,76,Peck,10,Flying,0,1150,10,Horn Attack,25,Normal,0,5,2200,25,12/10/2016
+302,48,47%,52,40%,52,Meowth,Normal,,80,92,81,Bite,6,Dark,0,500,7,Night Slash,30,Dark,0,25,2700,25,12/10/2016
+109,4,88%,1,100%,21,Spearow,Normal,Flying,80,112,61,Quick Attack,10,Normal,1,1330,12,Drill Peck,40,Flying,1,5,2700,33,12/10/2016
+94,2,91%,10,85%,19,Rattata,Normal,,60,103,70,Tackle,12,Normal,1,1100,10,Hyper Fang,35,Normal,1,5,2100,33,12/10/2016
+79,7,78%,1,100%,16,Pidgey,Normal,Flying,80,85,76,Tackle,12,Normal,1,1100,10,Aerial Ace,30,Flying,1,5,2900,25,12/10/2016
+80,7,78%,3,98%,16,Pidgey,Normal,Flying,80,85,76,Tackle,12,Normal,1,1100,10,Air Cutter,30,Flying,1,25,3300,25,12/10/2016
+78,7,78%,8,89%,16,Pidgey,Normal,Flying,80,85,76,Tackle,12,Normal,1,1100,10,Twister,25,Dragon,0,5,2700,20,12/10/2016
+229,26,52%,15,55%,41,Zubat,Poison,Flying,80,83,76,Quick Attack,10,Normal,0,1330,12,Sludge Bomb,55,Poison,1,5,2600,50,12/10/2016
+105,7,80%,7,91%,21,Spearow,Normal,Flying,80,112,61,Peck,10,Flying,1,1150,10,Aerial Ace,30,Flying,1,5,2900,25,12/10/2016
+230,29,49%,35,41%,41,Zubat,Poison,Flying,80,83,76,Bite,6,Dark,0,500,7,Poison Fang,25,Poison,1,5,2400,20,12/10/2016
+98,4,81%,23,73%,19,Rattata,Normal,,60,103,70,Quick Attack,10,Normal,1,1330,12,Body Slam,40,Normal,1,5,1560,50,12/10/2016
+108,8,75%,5,93%,21,Spearow,Normal,Flying,80,112,61,Quick Attack,10,Normal,1,1330,12,Aerial Ace,30,Flying,1,5,2900,25,12/10/2016
+231,31,46%,37,39%,41,Zubat,Poison,Flying,80,83,76,Bite,6,Dark,0,500,7,Air Cutter,30,Flying,1,25,3300,25,12/10/2016
+107,9,72%,14,80%,21,Spearow,Normal,Flying,80,112,61,Peck,10,Flying,1,1150,10,Twister,25,Dragon,0,5,2700,20,12/10/2016
+57,11,45%,11,48%,11,Metapod,Bug,,100,45,94,Bug Bite,5,Bug,1,450,7,Struggle,15,Normal,0,0,1695,20,12/10/2016
+93,6,76%,11,85%,19,Rattata,Normal,,60,103,70,Tackle,12,Normal,1,1100,10,Dig,70,Ground,0,5,5800,33,12/10/2016
+97,7,76%,21,75%,19,Rattata,Normal,,60,103,70,Quick Attack,10,Normal,1,1330,12,Hyper Fang,35,Normal,1,5,2100,33,12/10/2016
+76,14,64%,6,93%,16,Pidgey,Normal,Flying,80,85,76,Quick Attack,10,Normal,1,1330,12,Aerial Ace,30,Flying,1,5,2900,25,12/10/2016
+77,15,60%,9,88%,16,Pidgey,Normal,Flying,80,85,76,Quick Attack,10,Normal,1,1330,12,Air Cutter,30,Flying,1,25,3300,25,12/10/2016
+227,35,40%,26,48%,41,Zubat,Poison,Flying,80,83,76,Quick Attack,10,Normal,0,1330,12,Poison Fang,25,Poison,1,5,2400,20,12/10/2016
+110,17,63%,14,80%,21,Spearow,Normal,Flying,80,112,61,Quick Attack,10,Normal,1,1330,12,Twister,25,Dragon,0,5,2700,20,12/10/2016
+67,4,57%,5,46%,14,Kakuna,Bug,Poison,90,46,86,Bug Bite,5,Bug,1,450,7,Struggle,15,Normal,0,0,1695,20,12/10/2016
+75,17,54%,13,81%,16,Pidgey,Normal,Flying,80,85,76,Quick Attack,10,Normal,1,1330,12,Twister,25,Dragon,0,5,2700,20,12/10/2016
+228,37,37%,31,45%,41,Zubat,Poison,Flying,80,83,76,Quick Attack,10,Normal,0,1330,12,Air Cutter,30,Flying,1,25,3300,25,12/10/2016
+96,16,62%,18,76%,19,Rattata,Normal,,60,103,70,Quick Attack,10,Normal,1,1330,12,Dig,70,Ground,0,5,5800,33,12/10/2016
+68,5,53%,4,51%,14,Kakuna,Bug,Poison,90,46,86,Poison Sting,6,Poison,1,575,8,Struggle,15,Normal,0,0,1695,20,12/10/2016
+58,13,35%,10,62%,11,Metapod,Bug,,100,45,94,Tackle,12,Normal,0,1100,10,Struggle,15,Normal,0,0,1695,20,12/10/2016
+55,3,87%,2,77%,10,Caterpie,Bug,,90,55,62,Bug Bite,5,Bug,1,450,7,Struggle,15,Normal,0,0,1695,20,12/10/2016
+65,1,100%,2,92%,13,Weedle,Bug,Poison,80,63,55,Bug Bite,5,Bug,1,450,7,Struggle,15,Normal,0,0,1695,20,12/10/2016
+66,2,94%,1,100%,13,Weedle,Bug,Poison,80,63,55,Poison Sting,6,Poison,1,575,8,Struggle,15,Normal,0,0,1695,20,12/10/2016
+56,4,68%,1,100%,10,Caterpie,Bug,,90,55,62,Tackle,12,Normal,0,1100,10,Struggle,15,Normal,0,0,1695,20,12/10/2016
+287,1,100%,1,100%,50,Diglett,Ground,,20,109,88,Mud Slap,15,Ground,1,1350,12,Dig,70,Ground,1,5,5800,33,12/10/2016
+281,2,100%,4,73%,50,Diglett,Ground,,20,109,88,Mud Shot,6,Ground,1,550,7,Dig,70,Ground,1,5,5800,33,8/19/2016
+284,3,97%,5,69%,50,Diglett,Ground,,20,109,88,Scratch,6,Normal,0,500,7,Dig,70,Ground,1,5,5800,33,12/10/2016
+288,4,97%,2,89%,50,Diglett,Ground,,20,109,88,Mud Slap,15,Ground,1,1350,12,Mud Bomb,30,Ground,1,5,2600,25,12/10/2016
+282,5,96%,6,60%,50,Diglett,Ground,,20,109,88,Mud Shot,6,Ground,1,550,7,Mud Bomb,30,Ground,1,5,2600,25,8/19/2016
+289,6,95%,3,73%,50,Diglett,Ground,,20,109,88,Mud Slap,15,Ground,1,1350,12,Rock Tomb,30,Rock,0,25,3400,25,12/10/2016
+283,7,93%,8,49%,50,Diglett,Ground,,20,109,88,Mud Shot,6,Ground,1,550,7,Rock Tomb,30,Rock,0,25,3400,25,8/19/2016
+285,8,92%,7,55%,50,Diglett,Ground,,20,109,88,Scratch,6,Normal,0,500,7,Mud Bomb,30,Ground,1,5,2600,25,12/10/2016
+286,9,82%,9,47%,50,Diglett,Ground,,20,109,88,Scratch,6,Normal,0,500,7,Rock Tomb,30,Rock,0,25,3400,25,12/10/2016
+782,1,100%,1,100%,129,Magikarp,Water,,40,29,102,Splash,0,Water,1,1230,10,Struggle,15,Normal,0,0,1695,20,12/10/2016
